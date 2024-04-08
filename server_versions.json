@@ -1,0 +1,51 @@
+[
+  {
+    "name": "velocity",
+    "type": "PROXY",
+    "latestVersion": "latest",
+    "downloadLinks": [
+      {
+        "version": "latest",
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/363/downloads/velocity-3.3.0-SNAPSHOT-363.jar"
+      }
+    ]
+  },
+  {
+    "name": "paper",
+    "type": "SERVER",
+    "latestVersion": "1.20.4",
+    "downloadLinks": [
+      {
+        "version": "1.20.4",
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/435/downloads/paper-1.20.4-435.jar"
+      }
+    ]
+  },
+  {
+    "name": "purpur",
+    "type": "SERVER",
+    "latestVersion": "1.20.4",
+    "downloadLinks": [
+      {
+        "version": "1.20.4",
+        "link": "https://api.purpurmc.org/v2/purpur/1.20.4/latest/download"
+      }
+    ]
+  },
+  {
+    "name": "vanilla",
+    "type": "SERVER",
+    "latestVersion": "1.20.4",
+    "latestSnapshot": "24w14a",
+    "downloadLinks": [
+      {
+        "version": "1.20.4",
+        "link": "https://..."
+      },
+      {
+        "version": "24w14a",
+        "link": "https://..."
+      }
+    ]
+  }
+]
