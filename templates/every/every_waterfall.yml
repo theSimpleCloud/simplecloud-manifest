@@ -1,4 +1,4 @@
-extends: "every_proxy"
+extends: "every_bungeecord"
 destinations:
   - copy-from: "every_waterfall"
     copy-to: ""
