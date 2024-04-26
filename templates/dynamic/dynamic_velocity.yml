@@ -1,0 +1,4 @@
+extends: "every_velocity"
+destinations:
+  - copy-from: "%GROUP%"
+    copy-to: ""

@@ -1,0 +1,13 @@
+extends: "every_spigot"
+destinations:
+  - copy-from: "cache/spigot/%GROUP%/cache"
+    copy-to: "cache"
+  - copy-from: "cache/spigot/%GROUP%/libraries"
+    copy-to: "libraries"
+  - copy-from: "%GROUP%"
+    copy-to: ""
+shutdown-destinations:
+  - copy-from: "cache"
+    copy-to: "cache/spigot/%GROUP%/cache"
+  - copy-from: "libraries"
+    copy-to: "cache/spigot/%GROUP%/libraries"

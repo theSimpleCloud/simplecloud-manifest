@@ -1,0 +1,4 @@
+extends: "every_spigot"
+destinations:
+  - copy-from: ""
+    copy-to: "static/%SERVER%"

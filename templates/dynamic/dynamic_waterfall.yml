@@ -1,0 +1,4 @@
+extends: "every_waterfall"
+destinations:
+  - copy-from: "%GROUP%"
+    copy-to: ""

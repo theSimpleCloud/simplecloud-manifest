@@ -1,0 +1,13 @@
+extends: "every_paper"
+destinations:
+  - copy-from: "cache/paper/%GROUP%/cache"
+    copy-to: "cache"
+  - copy-from: "cache/paper/%GROUP%/libraries"
+    copy-to: "libraries"
+  - copy-from: "%GROUP%"
+    copy-to: ""
+shutdown-destinations:
+  - copy-from: "cache"
+    copy-to: "cache/paper/%GROUP%/cache"
+  - copy-from: "libraries"
+    copy-to: "cache/paper/%GROUP%/libraries"

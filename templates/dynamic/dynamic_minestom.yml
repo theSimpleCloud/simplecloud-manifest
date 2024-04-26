@@ -1,0 +1,4 @@
+extends: "every_minestom"
+destinations:
+  - copy-from: "%GROUP%"
+    copy-to: ""

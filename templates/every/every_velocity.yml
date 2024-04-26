@@ -1,0 +1,4 @@
+extends: "every_proxy"
+destinations:
+  - copy-from: "every_velocity"
+    copy-to: ""

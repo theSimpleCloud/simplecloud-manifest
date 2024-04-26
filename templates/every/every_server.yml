@@ -1,0 +1,4 @@
+extends: "every"
+destinations:
+  - copy-from: "every_server"
+    copy-to: ""

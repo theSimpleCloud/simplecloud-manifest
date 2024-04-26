@@ -1,0 +1,4 @@
+extends: "every_paper"
+destinations:
+  - copy-from: ""
+    copy-to: "static/%SERVER%"
