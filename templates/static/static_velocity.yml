@@ -1,4 +1,7 @@
-extends: "dynamic_velocity"
+extends: "every_velocity"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"

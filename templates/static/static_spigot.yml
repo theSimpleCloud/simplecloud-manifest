@@ -1,4 +1,7 @@
-extends: "dynamic_spigot"
+extends: "every_spigot"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"

@@ -1,4 +1,7 @@
-extends: "dynamic_waterfall"
+extends: "every_waterfall"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"

@@ -1,4 +1,7 @@
-extends: "dynamic_bungeecord"
+extends: "every_bungeecord"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"

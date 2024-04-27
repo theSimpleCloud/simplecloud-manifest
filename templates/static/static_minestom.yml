@@ -1,4 +1,7 @@
-extends: "dynamic_minestom"
+extends: "every_minestom"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"

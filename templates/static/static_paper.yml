@@ -1,4 +1,7 @@
-extends: "dynamic_paper"
+extends: "every_paper"
+destinations:
+  - copy-from: "static/%SERVER%"
+    copy-to: ""
 shutdown-destinations:
   - copy-from: ""
     copy-to: "static/%SERVER%"
