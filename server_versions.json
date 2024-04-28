@@ -194,6 +194,11 @@
         "version": "24w14a",
         "link": "https://piston-data.mojang.com/v1/objects/960cb0e5c794b02abdbcdbdc15b4de058b222118/server.jar",
         "isSnapshot": true
+      },
+      {
+        "version": "24w14potato",
+        "link": "https://piston-data.mojang.com/v1/objects/2d29eee4f5a71f323d20b36d623e2ec21dab74f7/server.jar",
+        "isSnapshot": true
       }
     ]
   }
