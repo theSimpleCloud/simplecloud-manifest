@@ -46,6 +46,7 @@
   {
     "name": "Paper",
     "type": "SERVER",
+    "isPaperclip": true,
     "latestVersion": "1.20.5",
     "downloadLinks": [
       {
@@ -157,6 +158,7 @@
   {
     "name": "Purpur",
     "type": "SERVER",
+    "isPaperclip": true,
     "latestVersion": "1.20.4",
     "downloadLinks": [
       {
@@ -166,7 +168,7 @@
     ]
   },
   {
-    "name": "Wind Spigot",
+    "name": "Windspigot",
     "type": "SERVER",
     "latestVersion": "1.8.8",
     "downloadLinks": [
