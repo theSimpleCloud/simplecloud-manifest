@@ -6,7 +6,7 @@
     "downloadLinks": [
       {
         "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/385/downloads/velocity-3.3.0-SNAPSHOT-385.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/389/downloads/velocity-3.3.0-SNAPSHOT-389.jar"
       }
     ]
   },
@@ -17,7 +17,7 @@
     "downloadLinks": [
       {
         "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/576/downloads/waterfall-1.20-576.jar"
+        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/577/downloads/waterfall-1.20-577.jar"
       }
     ]
   },
@@ -47,19 +47,19 @@
     "name": "Paper",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.20.5",
+    "latestVersion": "1.20.6",
     "downloadLinks": [
       {
-        "version": "1.20.5",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.5/builds/6/downloads/paper-1.20.5-6.jar"
+        "version": "1.20.6",
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/51/downloads/paper-1.20.6-51.jar"
       },
       {
         "version": "1.20.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/435/downloads/paper-1.20.4-435.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/496/downloads/paper-1.20.4-496.jar"
       },
       {
         "version": "1.20.2",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/291/downloads/paper-1.20.2-291.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/318/downloads/paper-1.20.2-318.jar"
       },
       {
         "version": "1.20.1",
@@ -71,7 +71,7 @@
       },
       {
         "version": "1.19.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/549/downloads/paper-1.19.4-549.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/550/downloads/paper-1.19.4-550.jar"
       },
       {
         "version": "1.19.3",
@@ -87,15 +87,19 @@
       },
       {
         "version": "1.19",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/69/downloads/paper-1.19-69.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar"
       },
       {
         "version": "1.18.2",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/386/downloads/paper-1.18.2-386.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar"
       },
       {
         "version": "1.18.1",
-        "link": "https://papermc.io/api/v2/projects/paper/versions/1.18.1/builds/133/downloads/paper-1.18.1-133.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18.1/builds/216/downloads/paper-1.18.1-216.jar"
+      },
+      {
+        "version": "1.18",
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18/builds/66/downloads/paper-1.18-66.jar"
       },
       {
         "version": "1.17.1",
@@ -182,19 +186,20 @@
     "name": "Vanilla",
     "type": "SERVER",
     "latestVersion": "1.20.6",
-    "latestSnapshot": "24w14a",
+    "latestSnapshot": "24w18a",
     "downloadLinks": [
       {
         "version": "1.20.6",
         "link": "https://piston-data.mojang.com/v1/objects/145ff0858209bcfc164859ba735d4199aafa1eea/server.jar"
       },
       {
-        "version": "1.20.5",
-        "link": "https://piston-data.mojang.com/v1/objects/79493072f65e17243fd36a699c9a96b4381feb91/server.jar"
-      },
-      {
         "version": "1.20.4",
         "link": "https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar"
+      },
+      {
+        "version": "24w18a",
+        "link": "https://piston-data.mojang.com/v1/objects/22618c686c86be630601e5d9fcf581674105c899/server.jar",
+        "isSnapshot": true
       },
       {
         "version": "24w14a",
