@@ -186,7 +186,7 @@
     "name": "Vanilla",
     "type": "SERVER",
     "latestVersion": "1.20.6",
-    "latestSnapshot": "24w19b",
+    "latestSnapshot": "24w21a",
     "downloadLinks": [
       {
         "version": "1.20.6",
@@ -195,6 +195,11 @@
       {
         "version": "1.20.4",
         "link": "https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar"
+      },
+      {
+        "version": "24w21a",
+        "link": "https://piston-data.mojang.com/v1/objects/4d8d16bb981cdcf69381ad638f2904b033d2f3ac/server.jar",
+        "isSnapshot": true
       },
       {
         "version": "24w20a",
