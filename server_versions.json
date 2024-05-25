@@ -39,7 +39,7 @@
     "downloadLinks": [
       {
         "version": "latest",
-        "link": "https://papermc.io/api/v1/travertine/1.16/latest/download"
+        "link": "https://api.papermc.io/v2/projects/travertine/versions/1.16/builds/191/downloads/travertine-1.16-191.jar"
       }
     ]
   },
