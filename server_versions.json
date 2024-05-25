@@ -163,11 +163,31 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.20.4",
+    "latestVersion": "1.20.6",
     "downloadLinks": [
+      {
+        "version": "1.20.6",
+        "link": "https://api.purpurmc.org/v2/purpur/1.20.6/latest/download"
+      },
       {
         "version": "1.20.4",
         "link": "https://api.purpurmc.org/v2/purpur/1.20.4/latest/download"
+      },
+      {
+        "version": "1.19.4",
+        "link": "https://api.purpurmc.org/v2/purpur/1.19.4/latest/download"
+      },
+      {
+        "version": "1.18.2",
+        "link": "https://api.purpurmc.org/v2/purpur/1.19.4/latest/download"
+      },
+      {
+        "version": "1.17.1",
+        "link": "https://api.purpurmc.org/v2/purpur/1.17.1/latest/download"
+      },
+      {
+        "version": "1.16.5",
+        "link": "https://api.purpurmc.org/v2/purpur/1.16.5/latest/download"
       }
     ]
   },
