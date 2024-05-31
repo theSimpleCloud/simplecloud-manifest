@@ -6,7 +6,7 @@
     "downloadLinks": [
       {
         "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/390/downloads/velocity-3.3.0-SNAPSHOT-390.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/396/downloads/velocity-3.3.0-SNAPSHOT-396.jar"
       }
     ]
   },
@@ -17,7 +17,7 @@
     "downloadLinks": [
       {
         "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/577/downloads/waterfall-1.20-577.jar"
+        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/578/downloads/waterfall-1.20-578.jar"
       }
     ]
   },
@@ -51,7 +51,7 @@
     "downloadLinks": [
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/115/downloads/paper-1.20.6-115.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/128/downloads/paper-1.20.6-128.jar"
       },
       {
         "version": "1.20.4",
