@@ -192,6 +192,22 @@
     ]
   },
   {
+    "name": "Folia",
+    "type": "SERVER",
+    "isPaperclip": true,
+    "latestVersion": "1.20.6",
+    "downloadLinks": [
+      {
+        "version": "1.20.6",
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/4/downloads/folia-1.20.6-4.jar"
+      },
+      {
+        "version": "1.20.4",
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.4/builds/31/downloads/folia-1.20.4-31.jar"
+      }
+    ]
+  },
+  {
     "name": "Windspigot",
     "type": "SERVER",
     "latestVersion": "1.8.8",
