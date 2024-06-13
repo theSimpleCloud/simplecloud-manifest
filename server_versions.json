@@ -192,6 +192,22 @@
     ]
   },
   {
+    "name": "Folia",
+    "type": "SERVER",
+    "isPaperclip": true,
+    "latestVersion": "1.20.6",
+    "downloadLinks": [
+      {
+        "version": "1.20.6",
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/4/downloads/folia-1.20.6-4.jar"
+      },
+      {
+        "version": "1.20.4",
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.4/builds/31/downloads/folia-1.20.4-31.jar"
+      }
+    ]
+  },
+  {
     "name": "Windspigot",
     "type": "SERVER",
     "latestVersion": "1.8.8",
@@ -206,7 +222,7 @@
     "name": "Vanilla",
     "type": "SERVER",
     "latestVersion": "1.21",
-    "latestSnapshot": "1.21-pre4",
+    "latestSnapshot": "1.21-rc1",
     "downloadLinks": [
       {
         "version": "1.21",
@@ -219,6 +235,11 @@
       {
         "version": "1.20.4",
         "link": "https://piston-data.mojang.com/v1/objects/8dd1a28015f51b1803213892b50b7b4fc76e594d/server.jar"
+      },
+      {
+        "version": "1.21-rc1",
+        "link": "https://piston-data.mojang.com/v1/objects/902101d2fb0f968b9c0ddb8b8cff9afef23f72c7/server.jar",
+        "isSnapshot": true
       },
       {
         "version": "1.21-pre4",
