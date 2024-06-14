@@ -2,22 +2,86 @@
   {
     "name": "Velocity",
     "type": "PROXY",
-    "latestVersion": "latest",
+    "latestVersion": "3.3.0-SNAPSHOT",
     "downloadLinks": [
       {
-        "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/396/downloads/velocity-3.3.0-SNAPSHOT-398.jar"
+        "version": "3.3.0-SNAPSHOT",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.3.0-SNAPSHOT/builds/398/downloads/velocity-3.3.0-SNAPSHOT-398.jar"
+      },
+      {
+        "version": "3.2.0-SNAPSHOT",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.2.0-SNAPSHOT/builds/296/downloads/velocity-3.2.0-SNAPSHOT-296.jar"
+      },
+      {
+        "version": "3.1.2-SNAPSHOT",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.1.2-SNAPSHOT/builds/207/downloads/velocity-3.1.2-SNAPSHOT-207.jar"
+      },
+      {
+        "version": "3.1.1-SNAPSHOT",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.1.1-SNAPSHOT/builds/97/downloads/velocity-3.1.1-SNAPSHOT-97.jar"
+      },
+      {
+        "version": "3.1.1",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.1.1/builds/102/downloads/velocity-3.1.1-102.jar"
+      },
+      {
+        "version": "3.1.0",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/3.1.0/builds/95/downloads/velocity-3.1.0-95.jar"
+      },
+      {
+        "version": "1.1.9",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/1.1.9/builds/447/downloads/velocity-1.1.9-447.jar"
+      },
+      {
+        "version": "1.0.10",
+        "link": "https://api.papermc.io/v2/projects/projects/velocity/versions/1.0.10/builds/245/downloads/velocity-1.0.10-245.jar"
       }
     ]
   },
   {
     "name": "Waterfall",
     "type": "PROXY",
-    "latestVersion": "latest",
+    "latestVersion": "1.20",
     "downloadLinks": [
       {
-        "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.20/builds/578/downloads/waterfall-1.20-578.jar"
+        "version": "1.20",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.20/builds/578/downloads/velocity-1.20-578.jar"
+      },
+      {
+        "version": "1.19",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.19/builds/535/downloads/velocity-1.19-535.jar"
+      },
+      {
+        "version": "1.18",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.18/builds/488/downloads/velocity-1.18-488.jar"
+      },
+      {
+        "version": "1.17",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.17/builds/454/downloads/velocity-1.17-454.jar"
+      },
+      {
+        "version": "1.16",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.16/builds/431/downloads/velocity-1.16-431.jar"
+      },
+      {
+        "version": "1.15",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.15/builds/350/downloads/velocity-1.15-350.jar"
+      },
+      {
+        "version": "1.14",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.14/builds/301/downloads/velocity-1.14-301.jar"
+      },
+      {
+        "version": "1.13",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.13/builds/276/downloads/velocity-1.13-276.jar"
+      },
+      {
+        "version": "1.12",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.12/builds/185/downloads/velocity-1.12-185.jar"
+      },
+      {
+        "version": "1.11",
+        "link": "https://api.papermc.io/v2/projects/projects/waterfall/versions/1.11/builds/108/downloads/velocity-1.11-108.jar"
       }
     ]
   },
@@ -35,134 +99,200 @@
   {
     "name": "Travertine",
     "type": "PROXY",
-    "latestVersion": "latest",
+    "latestVersion": "1.16",
     "downloadLinks": [
       {
-        "version": "latest",
-        "link": "https://api.papermc.io/v2/projects/travertine/versions/1.16/builds/191/downloads/travertine-1.16-191.jar"
+        "version": "1.16",
+        "link": "https://api.papermc.io/v2/projects/projects/travertine/versions/1.16/builds/191/downloads/velocity-1.16-191.jar"
+      },
+      {
+        "version": "1.15",
+        "link": "https://api.papermc.io/v2/projects/projects/travertine/versions/1.15/builds/144/downloads/velocity-1.15-144.jar"
+      },
+      {
+        "version": "1.14",
+        "link": "https://api.papermc.io/v2/projects/projects/travertine/versions/1.14/builds/112/downloads/velocity-1.14-112.jar"
+      },
+      {
+        "version": "1.13",
+        "link": "https://api.papermc.io/v2/projects/projects/travertine/versions/1.13/builds/93/downloads/velocity-1.13-93.jar"
+      },
+      {
+        "version": "1.12",
+        "link": "https://api.papermc.io/v2/projects/projects/travertine/versions/1.12/builds/44/downloads/velocity-1.12-44.jar"
       }
     ]
   },
   {
     "name": "Paper",
     "type": "SERVER",
-    "isPaperclip": true,
     "latestVersion": "1.20.6",
     "downloadLinks": [
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/130/downloads/paper-1.20.6-139.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20.6/builds/140/downloads/velocity-1.20.6-140.jar"
+      },
+      {
+        "version": "1.20.5",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20.5/builds/22/downloads/velocity-1.20.5-22.jar"
       },
       {
         "version": "1.20.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.4/builds/496/downloads/paper-1.20.4-496.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20.4/builds/497/downloads/velocity-1.20.4-497.jar"
       },
       {
         "version": "1.20.2",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.2/builds/318/downloads/paper-1.20.2-318.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20.2/builds/318/downloads/velocity-1.20.2-318.jar"
       },
       {
         "version": "1.20.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.1/builds/196/downloads/paper-1.20.1-196.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20.1/builds/196/downloads/velocity-1.20.1-196.jar"
       },
       {
         "version": "1.20",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20/builds/17/downloads/paper-1.20-17.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.20/builds/17/downloads/velocity-1.20-17.jar"
       },
       {
         "version": "1.19.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.4/builds/550/downloads/paper-1.19.4-550.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.19.4/builds/550/downloads/velocity-1.19.4-550.jar"
       },
       {
         "version": "1.19.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.3/builds/448/downloads/paper-1.19.3-448.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.19.3/builds/448/downloads/velocity-1.19.3-448.jar"
       },
       {
         "version": "1.19.2",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.2/builds/307/downloads/paper-1.19.2-307.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.19.2/builds/307/downloads/velocity-1.19.2-307.jar"
       },
       {
         "version": "1.19.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19.1/builds/111/downloads/paper-1.19.1-111.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.19.1/builds/111/downloads/velocity-1.19.1-111.jar"
       },
       {
         "version": "1.19",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.19/builds/81/downloads/paper-1.19-81.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.19/builds/81/downloads/velocity-1.19-81.jar"
       },
       {
         "version": "1.18.2",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18.2/builds/388/downloads/paper-1.18.2-388.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.18.2/builds/388/downloads/velocity-1.18.2-388.jar"
       },
       {
         "version": "1.18.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18.1/builds/216/downloads/paper-1.18.1-216.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.18.1/builds/216/downloads/velocity-1.18.1-216.jar"
       },
       {
         "version": "1.18",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.18/builds/66/downloads/paper-1.18-66.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.18/builds/66/downloads/velocity-1.18-66.jar"
       },
       {
         "version": "1.17.1",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.17.1.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.17.1/builds/411/downloads/velocity-1.17.1-411.jar"
       },
       {
         "version": "1.17",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.17.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.17/builds/79/downloads/velocity-1.17-79.jar"
       },
       {
         "version": "1.16.5",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.16.5.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.16.5/builds/794/downloads/velocity-1.16.5-794.jar"
       },
       {
         "version": "1.16.4",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.16.4.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.16.4/builds/416/downloads/velocity-1.16.4-416.jar"
       },
       {
         "version": "1.16.3",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.16.3.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.16.3/builds/253/downloads/velocity-1.16.3-253.jar"
       },
       {
         "version": "1.16.2",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.16.2.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.16.2/builds/189/downloads/velocity-1.16.2-189.jar"
       },
       {
         "version": "1.16.1",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.16.1.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.16.1/builds/138/downloads/velocity-1.16.1-138.jar"
       },
       {
         "version": "1.15.2",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.15.2.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.15.2/builds/393/downloads/velocity-1.15.2-393.jar"
+      },
+      {
+        "version": "1.15.1",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.15.1/builds/62/downloads/velocity-1.15.1-62.jar"
+      },
+      {
+        "version": "1.15",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.15/builds/21/downloads/velocity-1.15-21.jar"
       },
       {
         "version": "1.14.4",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.14.4.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.14.4/builds/245/downloads/velocity-1.14.4-245.jar"
+      },
+      {
+        "version": "1.14.3",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.14.3/builds/134/downloads/velocity-1.14.3-134.jar"
+      },
+      {
+        "version": "1.14.2",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.14.2/builds/107/downloads/velocity-1.14.2-107.jar"
+      },
+      {
+        "version": "1.14.1",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.14.1/builds/50/downloads/velocity-1.14.1-50.jar"
+      },
+      {
+        "version": "1.14",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.14/builds/17/downloads/velocity-1.14-17.jar"
       },
       {
         "version": "1.13.2",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.13.2.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.13.2/builds/657/downloads/velocity-1.13.2-657.jar"
+      },
+      {
+        "version": "1.13.1",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.13.1/builds/386/downloads/velocity-1.13.1-386.jar"
+      },
+      {
+        "version": "1.13",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.13/builds/173/downloads/velocity-1.13-173.jar"
+      },
+      {
+        "version": "1.13-pre7",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.13-pre7/builds/12/downloads/velocity-1.13-pre7-12.jar"
       },
       {
         "version": "1.12.2",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.12.2.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.12.2/builds/1620/downloads/velocity-1.12.2-1620.jar"
+      },
+      {
+        "version": "1.12.1",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.12.1/builds/1204/downloads/velocity-1.12.1-1204.jar"
+      },
+      {
+        "version": "1.12",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.12/builds/1169/downloads/velocity-1.12-1169.jar"
       },
       {
         "version": "1.11.2",
-        "link": "https://yivesmirror.com/files/paper/PaperSpigot-1.11.2-b1104.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.11.2/builds/1106/downloads/velocity-1.11.2-1106.jar"
+      },
+      {
+        "version": "1.10.2",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.10.2/builds/918/downloads/velocity-1.10.2-918.jar"
+      },
+      {
+        "version": "1.9.4",
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.9.4/builds/775/downloads/velocity-1.9.4-775.jar"
       },
       {
         "version": "1.8.8",
-        "link": "https://dl.thesimplecloud.eu/download/versions/paper/Paper-1.8.8.jar"
-      },
-      {
-        "version": "1.7.10",
-        "link": "https://yivesmirror.com/files/paper/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/paper/versions/1.8.8/builds/445/downloads/velocity-1.8.8-445.jar"
       }
     ]
   },
   {
     "name": "Purpur",
     "type": "SERVER",
-    "isPaperclip": true,
     "latestVersion": "1.20.6",
     "downloadLinks": [
       {
@@ -194,16 +324,27 @@
   {
     "name": "Folia",
     "type": "SERVER",
-    "isPaperclip": true,
     "latestVersion": "1.20.6",
     "downloadLinks": [
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/4/downloads/folia-1.20.6-4.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/folia/versions/1.20.6/builds/4/downloads/velocity-1.20.6-4.jar"
       },
       {
         "version": "1.20.4",
-        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.4/builds/31/downloads/folia-1.20.4-31.jar"
+        "link": "https://api.papermc.io/v2/projects/projects/folia/versions/1.20.4/builds/31/downloads/velocity-1.20.4-31.jar"
+      },
+      {
+        "version": "1.20.2",
+        "link": "https://api.papermc.io/v2/projects/projects/folia/versions/1.20.2/builds/20/downloads/velocity-1.20.2-20.jar"
+      },
+      {
+        "version": "1.20.1",
+        "link": "https://api.papermc.io/v2/projects/projects/folia/versions/1.20.1/builds/17/downloads/velocity-1.20.1-17.jar"
+      },
+      {
+        "version": "1.19.4",
+        "link": "https://api.papermc.io/v2/projects/projects/folia/versions/1.19.4/builds/39/downloads/velocity-1.19.4-39.jar"
       }
     ]
   },
