@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.3.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/399/downloads/velocity-3.3.0-SNAPSHOT-399.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/400/downloads/velocity-3.3.0-SNAPSHOT-400.jar"
       },
       {
         "version": "3.2.0-SNAPSHOT",
@@ -139,7 +139,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/1/downloads/paper-1.21-1.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/6/downloads/paper-1.21-6.jar"
       },
       {
         "version": "1.20.6",
@@ -307,8 +307,12 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.20.6",
+    "latestVersion": "1.21",
     "downloadLinks": [
+      {
+        "version": "1.21",
+        "link": "https://api.purpurmc.org/v2/purpur/1.21/latest/download"
+      },
       {
         "version": "1.20.6",
         "link": "https://api.purpurmc.org/v2/purpur/1.20.6/latest/download"
