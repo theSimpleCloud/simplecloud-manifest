@@ -139,7 +139,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/14/downloads/paper-1.21-14.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/15/downloads/paper-1.21-15.jar"
       },
       {
         "version": "1.20.6",
@@ -431,7 +431,7 @@
     "downloadLinks": [
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/4/downloads/folia-1.20.6-4.jar"
+        "link": "https://api.papermc.io/v2/projects/folia/versions/1.20.6/builds/5/downloads/folia-1.20.6-5.jar"
       },
       {
         "version": "1.20.4",
