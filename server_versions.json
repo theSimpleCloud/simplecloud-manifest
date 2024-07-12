@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.3.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/404/downloads/velocity-3.3.0-SNAPSHOT-404.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/406/downloads/velocity-3.3.0-SNAPSHOT-406.jar"
       },
       {
         "version": "3.2.0-SNAPSHOT",
@@ -139,7 +139,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/49/downloads/paper-1.21-49.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/57/downloads/paper-1.21-57.jar"
       },
       {
         "version": "1.20.6",
