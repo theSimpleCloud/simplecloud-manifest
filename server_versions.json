@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.3.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/413/downloads/velocity-3.3.0-SNAPSHOT-413.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/415/downloads/velocity-3.3.0-SNAPSHOT-415.jar"
       },
       {
         "version": "3.2.0-SNAPSHOT",
@@ -135,11 +135,15 @@
     "name": "Paper",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21",
+    "latestVersion": "1.21.1",
     "downloadLinks": [
       {
+        "version": "1.21.1",
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/5/downloads/paper-1.21.1-5.jar"
+      },
+      {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/124/downloads/paper-1.21-124.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21/builds/130/downloads/paper-1.21-130.jar"
       },
       {
         "version": "1.20.6",
@@ -307,8 +311,12 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21",
+    "latestVersion": "1.21.1",
     "downloadLinks": [
+      {
+        "version": "1.21.1",
+        "link": "https://api.purpurmc.org/v2/purpur/1.21.1/latest/download"
+      },
       {
         "version": "1.21",
         "link": "https://api.purpurmc.org/v2/purpur/1.21/latest/download"
@@ -467,9 +475,19 @@
     "name": "Vanilla",
     "type": "SERVER",
     "isPaperclip": false,
-    "latestVersion": "1.21",
-    "latestSnapshot": "1.21",
+    "latestVersion": "1.21.1",
+    "latestSnapshot": "1.21.1",
     "downloadLinks": [
+      {
+        "version": "1.21.1",
+        "link": "https://piston-data.mojang.com/v1/objects/59353fb40c36d304f2035d51e7d6e6baa98dc05c/server.jar",
+        "isSnapshot": false
+      },
+      {
+        "version": "1.21.1-rc1",
+        "link": "https://piston-data.mojang.com/v1/objects/e56720aba46f7f07238c4c054a160fc942da9f78/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "1.21",
         "link": "https://piston-data.mojang.com/v1/objects/450698d1863ab5180c25d7c804ef0fe6369dd1ba/server.jar",
