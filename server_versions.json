@@ -139,7 +139,7 @@
     "downloadLinks": [
       {
         "version": "1.21.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/76/downloads/paper-1.21.1-76.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/77/downloads/paper-1.21.1-77.jar"
       },
       {
         "version": "1.21",
@@ -496,11 +496,6 @@
       {
         "version": "24w34a",
         "link": "https://piston-data.mojang.com/v1/objects/ff16e26392a5ced7cfe52ffdc5461cd646b9b65d/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "24w33a",
-        "link": "https://piston-data.mojang.com/v1/objects/90f9c80aeef3966343e661a1487b7918c90ae61d/server.jar",
         "isSnapshot": true
       },
       {
