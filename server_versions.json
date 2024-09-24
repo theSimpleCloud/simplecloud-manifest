@@ -3,11 +3,15 @@
     "name": "Velocity",
     "type": "PROXY",
     "isPaperclip": false,
-    "latestVersion": "3.3.0-SNAPSHOT",
+    "latestVersion": "3.4.0-SNAPSHOT",
     "downloadLinks": [
       {
+        "version": "3.4.0-SNAPSHOT",
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/438/downloads/velocity-3.4.0-SNAPSHOT-438.jar"
+      },
+      {
         "version": "3.3.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/433/downloads/velocity-3.3.0-SNAPSHOT-433.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.3.0-SNAPSHOT/builds/436/downloads/velocity-3.3.0-SNAPSHOT-436.jar"
       },
       {
         "version": "3.2.0-SNAPSHOT",
@@ -139,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/77/downloads/paper-1.21.1-77.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/97/downloads/paper-1.21.1-97.jar"
       },
       {
         "version": "1.21",
@@ -147,7 +151,7 @@
       },
       {
         "version": "1.20.6",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/149/downloads/paper-1.20.6-149.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.20.6/builds/150/downloads/paper-1.20.6-150.jar"
       },
       {
         "version": "1.20.5",
@@ -476,8 +480,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.1",
-    "latestSnapshot": "24w37a",
+    "latestSnapshot": "24w38a",
     "downloadLinks": [
+      {
+        "version": "24w38a",
+        "link": "https://piston-data.mojang.com/v1/objects/b87bfc3763d88a1364b8ac30fe6f2ac3550948f8/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "24w37a",
         "link": "https://piston-data.mojang.com/v1/objects/4ba5f8917ac400474751b6e0f20d311d3b726fe7/server.jar",
@@ -491,11 +500,6 @@
       {
         "version": "24w35a",
         "link": "https://piston-data.mojang.com/v1/objects/93d259fdba93aa7d3c1763cfb0136295087e0de3/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "24w34a",
-        "link": "https://piston-data.mojang.com/v1/objects/ff16e26392a5ced7cfe52ffdc5461cd646b9b65d/server.jar",
         "isSnapshot": true
       },
       {
