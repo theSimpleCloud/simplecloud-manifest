@@ -480,8 +480,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.1",
-    "latestSnapshot": "1.21.2-pre5",
+    "latestSnapshot": "1.21.2-rc1",
     "downloadLinks": [
+      {
+        "version": "1.21.2-rc1",
+        "link": "https://piston-data.mojang.com/v1/objects/8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "1.21.2-pre5",
         "link": "https://piston-data.mojang.com/v1/objects/c3294c5538c63aaa744313c8b98276bb26490a85/server.jar",
