@@ -1,0 +1,13 @@
+extends: "every_folia"
+destinations:
+  - copy-from: "cache/folia/%GROUP%/cache"
+    copy-to: "cache"
+  - copy-from: "cache/folia/%GROUP%/libraries"
+    copy-to: "libraries"
+  - copy-from: "%GROUP%"
+    copy-to: ""
+shutdown-destinations:
+  - copy-from: "cache"
+    copy-to: "cache/folia/%GROUP%/cache"
+  - copy-from: "libraries"
+    copy-to: "cache/folia/%GROUP%/libraries"
