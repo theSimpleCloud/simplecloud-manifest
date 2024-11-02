@@ -139,11 +139,15 @@
     "name": "Paper",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21.1",
+    "latestVersion": "1.21.3",
     "downloadLinks": [
       {
+        "version": "1.21.3",
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/10/downloads/paper-1.21.3-10.jar"
+      },
+      {
         "version": "1.21.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/130/downloads/paper-1.21.1-130.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/131/downloads/paper-1.21.1-131.jar"
       },
       {
         "version": "1.21",
