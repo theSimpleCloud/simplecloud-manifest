@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/10/downloads/paper-1.21.3-10.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/11/downloads/paper-1.21.3-11.jar"
       },
       {
         "version": "1.21.1",
@@ -319,8 +319,12 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21.1",
+    "latestVersion": "1.21.3",
     "downloadLinks": [
+      {
+        "version": "1.21.3",
+        "link": "https://api.purpurmc.org/v2/purpur/1.21.3/latest/download"
+      },
       {
         "version": "1.21.1",
         "link": "https://api.purpurmc.org/v2/purpur/1.21.1/latest/download"
