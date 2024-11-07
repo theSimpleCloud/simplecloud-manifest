@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/13/downloads/paper-1.21.3-13.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/14/downloads/paper-1.21.3-14.jar"
       },
       {
         "version": "1.21.1",
@@ -488,8 +488,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.3",
-    "latestSnapshot": "24w44a",
+    "latestSnapshot": "24w45a",
     "downloadLinks": [
+      {
+        "version": "24w45a",
+        "link": "https://piston-data.mojang.com/v1/objects/8bbe822806cfdbeb9f6fc55d18fa1e8080e60047/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "24w44a",
         "link": "https://piston-data.mojang.com/v1/objects/5d233307681e1b46dfd4fba4f022c1cac2b58e60/server.jar",
