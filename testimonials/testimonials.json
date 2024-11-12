@@ -1,28 +1,28 @@
 [
-    {
-      "username": "EgyBoy",
-      "role": "Designer, Project Leader",
-      "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/egyboy.png",
-      "comment": "The beautiful website made me want to use SimpleCloud right away. The cloud is really user-friendly. The dashboard is cool too. I can easily integrate the API into my systems. Great thing, I'll recommend it!",
-      "userSince": "Winter 2022",
-      "testimonialDate": "10th Nov. 2024",
-      "socials": {
-        "x": "egyboy_",
-        "bsky": "egyboyy.bsky.social",
-        "github": "egyboyy"
-      },
-    {
-      "username": "Terrocraft",
-      "role": "Simplecloud user and idea contributor",
-      "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/terro.png",
-      "comment": "The cloud is really simple and user-friendly to use. You can do a lot with the API and it is relatively simple. I think the new cli is particularly good and innovative.",
-      "userSince": "14. Feb 2024",
-      "testimonialDate": "12th Nov. 2024",
-      "socials": {
-        "github": "Terrocraft",
-        "discord": "Terrocraft",
-        "youtube": "Terrocraft"
-      }
+  {
+    "username": "EgyBoy",
+    "role": "Designer, Project Leader",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/egyboy.png",
+    "comment": "The beautiful website made me want to use SimpleCloud right away. The cloud is really user-friendly. The dashboard is cool too. I can easily integrate the API into my systems. Great thing, I'll recommend it!",
+    "userSince": "Winter 2022",
+    "testimonialDate": "10th Nov. 2024",
+    "socials": {
+      "x": "egyboy_",
+      "bsky": "egyboyy.bsky.social",
+      "github": "egyboyy"
     }
-  ]
-  
+  },
+  {
+    "username": "Terrocraft",
+    "role": "Simplecloud user and idea contributor",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/terro.png",
+    "comment": "The cloud is really simple and user-friendly to use. You can do a lot with the API and it is relatively simple. I think the new cli is particularly good and innovative.",
+    "userSince": "14. Feb 2024",
+    "testimonialDate": "12th Nov. 2024",
+    "socials": {
+      "github": "Terrocraft",
+      "discord": "Terrocraft",
+      "youtube": "Terrocraft"
+    }
+  }
+]
