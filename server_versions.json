@@ -488,8 +488,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.3",
-    "latestSnapshot": "24w45a",
+    "latestSnapshot": "24w46a",
     "downloadLinks": [
+      {
+        "version": "24w46a",
+        "link": "https://piston-data.mojang.com/v1/objects/9b2e96ae27afaf9a6c682c5d92d37a99da4a8d1a/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "24w45a",
         "link": "https://piston-data.mojang.com/v1/objects/8bbe822806cfdbeb9f6fc55d18fa1e8080e60047/server.jar",
@@ -518,11 +523,6 @@
       {
         "version": "1.21.2-rc1",
         "link": "https://piston-data.mojang.com/v1/objects/8db23b5e87d998956ac5b9a5d94d1b4db4b9ea44/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "1.21.2-pre5",
-        "link": "https://piston-data.mojang.com/v1/objects/c3294c5538c63aaa744313c8b98276bb26490a85/server.jar",
         "isSnapshot": true
       },
       {
