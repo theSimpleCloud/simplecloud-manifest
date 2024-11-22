@@ -143,11 +143,11 @@
     "downloadLinks": [
       {
         "version": "1.21.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/44/downloads/paper-1.21.3-44.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/46/downloads/paper-1.21.3-46.jar"
       },
       {
         "version": "1.21.1",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/131/downloads/paper-1.21.1-131.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.1/builds/132/downloads/paper-1.21.1-132.jar"
       },
       {
         "version": "1.21",
