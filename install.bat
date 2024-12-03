@@ -60,7 +60,7 @@ echo The installation directory has been added to your PATH.
 echo You can now use 'scl' or 'simplecloud' commands.
 echo You may need to restart your command prompt or log out and log back in for the PATH changes to take effect.
 
-echo For more information, see: https://simplecloud.app
+echo For more information, see: https://docs.simplecloud.app
 
 pause
 exit /b 0
