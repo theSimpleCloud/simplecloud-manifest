@@ -145,4 +145,4 @@ Next steps:
 EOS
 fi
 
-echo "For more information, see: ${tty_underline}https://simplecloud.app${tty_reset}"
+echo "For more information, see: ${tty_underline}https://docs.simplecloud.app${tty_reset}"
