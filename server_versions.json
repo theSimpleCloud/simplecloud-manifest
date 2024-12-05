@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.4.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/451/downloads/velocity-3.4.0-SNAPSHOT-451.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/454/downloads/velocity-3.4.0-SNAPSHOT-454.jar"
       },
       {
         "version": "3.3.0-SNAPSHOT",
@@ -51,7 +51,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/581/downloads/waterfall-1.21-581.jar"
+        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar"
       },
       {
         "version": "1.20",
@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/74/downloads/paper-1.21.3-74.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/81/downloads/paper-1.21.3-81.jar"
       },
       {
         "version": "1.21.1",
@@ -487,9 +487,14 @@
     "name": "Vanilla",
     "type": "SERVER",
     "isPaperclip": false,
-    "latestVersion": "1.21.3",
-    "latestSnapshot": "1.21.4-rc3",
+    "latestVersion": "1.21.4",
+    "latestSnapshot": "1.21.4",
     "downloadLinks": [
+      {
+        "version": "1.21.4",
+        "link": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
+        "isSnapshot": false
+      },
       {
         "version": "1.21.4-rc3",
         "link": "https://piston-data.mojang.com/v1/objects/653cd548ed5bb2a2bff08945878347f3a3b8844b/server.jar",
@@ -523,11 +528,6 @@
       {
         "version": "24w46a",
         "link": "https://piston-data.mojang.com/v1/objects/9b2e96ae27afaf9a6c682c5d92d37a99da4a8d1a/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "24w45a",
-        "link": "https://piston-data.mojang.com/v1/objects/8bbe822806cfdbeb9f6fc55d18fa1e8080e60047/server.jar",
         "isSnapshot": true
       },
       {
