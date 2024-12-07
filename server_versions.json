@@ -323,8 +323,12 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21.3",
+    "latestVersion": "1.21.4",
     "downloadLinks": [
+      {
+        "version": "1.21.4",
+        "link": "https://api.purpurmc.org/v2/purpur/1.21.4/latest/download"
+      },
       {
         "version": "1.21.3",
         "link": "https://api.purpurmc.org/v2/purpur/1.21.3/latest/download"
