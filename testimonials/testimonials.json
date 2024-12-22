@@ -98,5 +98,14 @@
     "userSince": "Autmn 2024",
     "testimonialDate": "27th Dec. 2024",
     "socials": {}
+  },
+  {
+    "username": "CoinsAPI",
+    "role": "Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/coinsapi.png",
+    "comment": "Since I discovered SimpleCloud, I've been using it actively. The API is super simple and clear.",
+    "userSince": "Winter 2022",
+    "testimonialDate": "22th Dec. 2024",
+    "socials": {}
   }
 ]
