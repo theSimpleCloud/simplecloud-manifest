@@ -35,5 +35,68 @@
     "socials": {
       "github": "rlqu"
     }
+  },
+  {
+    "username": "fontrendererobj",
+    "role": "Server Administrator",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/fontrendererobj.png",
+    "comment": "SimpleCloud is easy to use and i never had Problems with it.",
+    "userSince": "Winter 2022",
+    "testimonialDate": "26th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "Kaseax",
+    "role": "Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/kaseax.png",
+    "comment": "Mit der API lässt sich sehr einfach arbeiten. Auch das verwalten von SimpleCloud ist sehr angenehm und übersichtlich. Somit finde ich, dass man mit SimpleCloud aufjedenfall sehr gut arbeiten kann.",
+    "userSince": "Winter 2022",
+    "testimonialDate": "26th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "ByRaudy",
+    "role": "Administrator & Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/byraudy.png",
+    "comment": "The best idea I ever had was switching to SimpleCloud. I don't have any problems with the cloud and the api is as developer easy to understand.",
+    "userSince": "Winter 2022",
+    "testimonialDate": "27th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "EinsLucaaa",
+    "role": "Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/einslucaaa.png",
+    "comment": "I am thrilled with SimpleCloud as a Minecraft Cloud system. It is very understandable and the API is well designed, making it easy to manage my servers. I wholeheartedly recommend SimpleCloud. It is a great choice for anyone looking for a reliable and user-friendly Minecraft Cloud system.",
+    "userSince": "Winter 2022",
+    "testimonialDate": "26th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "Mischmaschine",
+    "role": "Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/mischmaschine.png",
+    "comment": "I have been using SimpleCloud for some time and am happy with the quality and ease of use of the cloud. The support is reliable and the servers are always stable. The good API and detailed documentation make it easy to develop and integrate my own plugins. Overall, I am very satisfied with SimpleCloud and recommend it due to its reliable support and good API.",
+    "userSince": "Summer 2022",
+    "testimonialDate": "26th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "Brian4LP",
+    "role": "Administrator",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/brian4lp.png",
+    "comment": "Ich nutze die Cloud seit fast 2 Jahren und bin mit der einfachen Bedienung und des Modularen System sehr zufrieden. Ich habe wegen diesem Cloud-System mein Minecraft Account umbenannt",
+    "userSince": "Autmn 2020",
+    "testimonialDate": "27th Dec. 2022",
+    "socials": {}
+  },
+  {
+    "username": "AussichtigerTV",
+    "role": "Administrator",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/aussichtigertv.png",
+    "comment": "After using SimpleCloud, we were able to work more easily with the server network and were able to offer a network in a much more efficient and resource-saving way.",
+    "userSince": "Autmn 2024",
+    "testimonialDate": "27th Dec. 2024",
+    "socials": {}
   }
 ]
