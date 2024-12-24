@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.4.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/457/downloads/velocity-3.4.0-SNAPSHOT-457.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/458/downloads/velocity-3.4.0-SNAPSHOT-458.jar"
       },
       {
         "version": "3.3.0-SNAPSHOT",
@@ -143,11 +143,11 @@
     "downloadLinks": [
       {
         "version": "1.21.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/20/downloads/paper-1.21.4-20.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/31/downloads/paper-1.21.4-31.jar"
       },
       {
         "version": "1.21.3",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/81/downloads/paper-1.21.3-81.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.3/builds/82/downloads/paper-1.21.3-82.jar"
       },
       {
         "version": "1.21.1",
@@ -525,11 +525,6 @@
       {
         "version": "1.21.4-pre3",
         "link": "https://piston-data.mojang.com/v1/objects/b4452bf086905750376d2014c3b1063aca14320f/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "1.21.4-pre2",
-        "link": "https://piston-data.mojang.com/v1/objects/0d53352b9a13a05b8c314c93418347b6ef38cc52/server.jar",
         "isSnapshot": true
       },
       {
