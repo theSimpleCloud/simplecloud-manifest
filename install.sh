@@ -87,7 +87,7 @@ detect_platform
 
 # Get the latest release URL
 get_latest_release() {
-  curl --silent "https://gha.simplecloud.app//repos/$1/releases/latest" |
+  curl --silent "https://gha.simplecloud.app/repos/$1/releases/latest" |
   grep '"browser_download_url":' |
   grep "$PLATFORM" |
   sed -E 's/.*"([^"]+)".*/\1/'
