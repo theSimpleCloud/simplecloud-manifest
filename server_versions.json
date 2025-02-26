@@ -51,7 +51,7 @@
     "downloadLinks": [
       {
         "version": "1.21",
-        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar"
+        "link": "https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/583/downloads/waterfall-1.21-583.jar"
       },
       {
         "version": "1.20",
@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/177/downloads/paper-1.21.4-177.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/183/downloads/paper-1.21.4-183.jar"
       },
       {
         "version": "1.21.3",
