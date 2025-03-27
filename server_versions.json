@@ -543,11 +543,6 @@
         "isSnapshot": true
       },
       {
-        "version": "25w09a",
-        "link": "https://piston-data.mojang.com/v1/objects/baab122c7652b302621f7befd5be40abef9b9b7c/server.jar",
-        "isSnapshot": true
-      },
-      {
         "version": "1.21.4",
         "link": "https://piston-data.mojang.com/v1/objects/4707d00eb834b446575d89a61a11b5d548d8c001/server.jar",
         "isSnapshot": false
