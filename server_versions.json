@@ -7,7 +7,7 @@
     "downloadLinks": [
       {
         "version": "3.4.0-SNAPSHOT",
-        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/486/downloads/velocity-3.4.0-SNAPSHOT-486.jar"
+        "link": "https://api.papermc.io/v2/projects/velocity/versions/3.4.0-SNAPSHOT/builds/487/downloads/velocity-3.4.0-SNAPSHOT-487.jar"
       },
       {
         "version": "3.3.0-SNAPSHOT",
@@ -500,8 +500,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.5",
-    "latestSnapshot": "1.21.5",
+    "latestSnapshot": "25w14craftmine",
     "downloadLinks": [
+      {
+        "version": "25w14craftmine",
+        "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "1.21.5",
         "link": "https://piston-data.mojang.com/v1/objects/e6ec2f64e6080b9b5d9b471b291c33cc7f509733/server.jar",
