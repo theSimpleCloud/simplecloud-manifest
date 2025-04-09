@@ -500,8 +500,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.5",
-    "latestSnapshot": "25w14craftmine",
+    "latestSnapshot": "25w15a",
     "downloadLinks": [
+      {
+        "version": "25w15a",
+        "link": "https://piston-data.mojang.com/v1/objects/fed01fcdf4d2f37b3f847e08fd099714766533c3/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "25w14craftmine",
         "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar",
@@ -530,11 +535,6 @@
       {
         "version": "1.21.5-pre2",
         "link": "https://piston-data.mojang.com/v1/objects/7a6ec51f9e3095a8d2406042760d2989a1e8ad2b/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "1.21.5-pre1",
-        "link": "https://piston-data.mojang.com/v1/objects/b663ce11b5951546a74947c1896e0d4713188833/server.jar",
         "isSnapshot": true
       },
       {
