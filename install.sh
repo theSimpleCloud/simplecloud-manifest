@@ -25,6 +25,10 @@ warn() {
   printf "${tty_red}Warning${tty_reset}: %s\n" "$1"
 }
 
+error() {
+  printf "${tty_red}Error${tty_reset}: %s\n" "$1"
+}
+
 abort() {
   printf "%s\n" "$@" >&2
   exit 1
@@ -43,24 +47,48 @@ execute_sudo() {
   execute "/usr/bin/sudo" "${args[@]}"
 }
 
-# Detect platform
+# Function to handle API errors
+handle_api_error() {
+  local http_code=$1
+  local error_message=$2
+
+  case $http_code in
+    400)
+      error "Bad request: $error_message"
+      ;;
+    404)
+      error "Not found: $error_message"
+      ;;
+    500)
+      error "Server error: $error_message"
+      ;;
+    *)
+      error "HTTP $http_code: $error_message"
+      ;;
+  esac
+  exit 1
+}
+
+# Detect platform and set download parameters
 detect_platform() {
     OS=$(uname -s)
     ARCH=$(uname -m)
 
     case $OS in
         "Darwin")
+            PLATFORM="darwin"
             case $ARCH in
-                "x86_64") PLATFORM="cli-mac-intel" ;;
-                "arm64") PLATFORM="cli-mac-arm" ;;
+                "x86_64") ARCH_PARAM="amd64" ;;
+                "arm64") ARCH_PARAM="arm64" ;;
                 *) abort "Unsupported architecture: $ARCH" ;;
             esac
             ;;
         "Linux")
+            PLATFORM="linux"
             case $ARCH in
-                "x86_64") PLATFORM="cli-linux-amd64" ;;
-                "aarch64") PLATFORM="cli-linux-arm" ;;
-                "armhf"|"armv6l"|"armv7l") PLATFORM="cli-linux-arm" ;;
+                "x86_64") ARCH_PARAM="amd64" ;;
+                "aarch64") ARCH_PARAM="arm64" ;;
+                "armhf"|"armv6l"|"armv7l") ARCH_PARAM="arm" ;;
                 *) abort "Unsupported architecture: $ARCH" ;;
             esac
             ;;
@@ -68,13 +96,14 @@ detect_platform() {
             abort "Unsupported operating system: $OS"
             ;;
     esac
-    ohai "Detected platform: $PLATFORM"
+    ohai "Detected platform: $PLATFORM, architecture: $ARCH_PARAM"
 }
 
 # Set installation paths
 SIMPLECLOUD_PREFIX="/usr/local"
 SIMPLECLOUD_REPOSITORY="${SIMPLECLOUD_PREFIX}/bin"
-GITHUB_REPO="theSimpleCloud/simplecloud-manifest"
+REGISTRY_URL="https://registry.simplecloud.app"
+APP_SLUG="cli"
 
 # Find the correct path for chown
 CHOWN_PATH=$(which chown)
@@ -85,19 +114,8 @@ fi
 # Detect platform
 detect_platform
 
-# Get the latest release URL
-get_latest_release() {
-  curl --silent "https://gha.simplecloud.app/repos/$1/releases/latest" |
-  grep '"browser_download_url":' |
-  grep "$PLATFORM" |
-  sed -E 's/.*"([^"]+)".*/\1/'
-}
-
-DOWNLOAD_URL=$(get_latest_release $GITHUB_REPO)
-
-if [ -z "$DOWNLOAD_URL" ]; then
-    abort "Failed to get the download URL for the latest release."
-fi
+# Construct download URL with platform and architecture parameters
+DOWNLOAD_URL="${REGISTRY_URL}/v1/applications/${APP_SLUG}/download/latest?platform=${PLATFORM}&arch=${ARCH_PARAM}"
 
 ohai "This script will install:"
 echo "${SIMPLECLOUD_REPOSITORY}/sc"
@@ -111,17 +129,29 @@ ohai "Downloading and installing SimpleCloud..."
 (
   cd "${SIMPLECLOUD_REPOSITORY}" >/dev/null || exit 1
 
-  # Download the correct binary
-  execute "curl" "-fsSL" "-o" "${PLATFORM}" "${DOWNLOAD_URL}"
+  # Download the binary with error handling
+  HTTP_RESPONSE=$(curl -s -w "%{http_code}" -L \
+    -o simplecloud-binary.tmp \
+    "${DOWNLOAD_URL}")
 
-  if [[ ! -f "${PLATFORM}" ]]
+  HTTP_STATUS="${HTTP_RESPONSE}"
+
+  if [ $HTTP_STATUS -eq 200 ]; then
+    mv simplecloud-binary.tmp simplecloud-binary
+  else
+    ERROR_MESSAGE=$(cat simplecloud-binary.tmp)
+    rm -f simplecloud-binary.tmp
+    handle_api_error $HTTP_STATUS "$ERROR_MESSAGE"
+  fi
+
+  if [[ ! -f "simplecloud-binary" ]]
   then
     abort "Failed to download SimpleCloud."
   fi
 
-  execute_sudo "/bin/chmod" "+x" "${PLATFORM}"
-  execute_sudo "/bin/ln" "-sf" "${PLATFORM}" "sc"
-  execute_sudo "/bin/ln" "-sf" "${PLATFORM}" "simplecloud"
+  execute_sudo "/bin/chmod" "+x" "simplecloud-binary"
+  execute_sudo "/bin/mv" "simplecloud-binary" "simplecloud"
+  execute_sudo "/bin/ln" "-sf" "simplecloud" "sc"
 ) || exit 1
 
 ohai "Installation successful!"
