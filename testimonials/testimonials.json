@@ -107,5 +107,18 @@
     "userSince": "Winter 2022",
     "testimonialDate": "22th Dec. 2024",
     "socials": {}
+  },
+  {
+    "username": "Serverbauer",
+    "role": "Founder & Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/serverbauer.png",
+    "comment": "I have been using SimpleCloud for a while now and I am very happy with it. I would recommend SimpleCloud to anyone who wants to use a Minecraft Cloud system over any other Cloud system.",
+    "userSince": "Winter 2020",
+    "testimonialDate": "20th Apr. 2025",
+    "socials": {
+      "github": "Serverbauer",
+      "discord": "Serverbauer",
+      "portfolio": "https://finnabout.eu/"
+    }
   }
 ]
