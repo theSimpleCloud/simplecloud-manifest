@@ -115,9 +115,21 @@
     "comment": "SimpleCloud is a powerful and intuitive cloud platform that makes managing and launching servers incredibly easy. With Version 3 and the redesigned dashboard, it offers a clean and productive environment.",
     "userSince": "Spring 2025",
     "testimonialDate": "22th Apr. 2025",
-     "socials": {
+    "socials": {
       "github": "Anzeigenliste",
       "youtube": "Anzeigenliste"
+    }
+  },
+    "username": "Serverbauer",
+    "role": "Founder & Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/serverbauer.png",
+    "comment": "I have been using SimpleCloud for a while now and I am very happy with it. I would recommend SimpleCloud to anyone who wants to use a Minecraft Cloud system over any other Cloud system.",
+    "userSince": "Winter 2020",
+    "testimonialDate": "20th Apr. 2025",
+    "socials": {
+      "github": "Serverbauer",
+      "discord": "Serverbauer",
+      "portfolio": "https://finnabout.eu/"
     }
   }
 ]
