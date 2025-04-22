@@ -109,6 +109,17 @@
     "socials": {}
   },
   {
+    "username": "Anzeigenliste",
+    "role": "Developer",
+    "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/anzeigenliste.png",
+    "comment": "SimpleCloud is a powerful and intuitive cloud platform that makes managing and launching servers incredibly easy. With Version 3 and the redesigned dashboard, it offers a clean and productive environment.",
+    "userSince": "Spring 2025",
+    "testimonialDate": "22th Apr. 2025",
+    "socials": {
+      "github": "Anzeigenliste",
+      "youtube": "Anzeigenliste"
+    }
+  },
     "username": "Serverbauer",
     "role": "Founder & Developer",
     "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/serverbauer.png",
@@ -122,3 +133,4 @@
     }
   }
 ]
+ 
