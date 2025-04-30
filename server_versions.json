@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.5",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/42/downloads/paper-1.21.5-42.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/45/downloads/paper-1.21.5-45.jar"
       },
       {
         "version": "1.21.4",
@@ -331,7 +331,7 @@
     "downloadLinks": [
       {
         "version": "1.21.5",
-        "link": "https://api.purpurmc.org/v2/purpur/1.21.5/2421/download?minecraft_version=1.21.5\u0026build=2421"
+        "link": "https://api.purpurmc.org/v2/purpur/1.21.5/2423/download?minecraft_version=1.21.5\u0026build=2423"
       },
       {
         "version": "1.21.4",
@@ -508,8 +508,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.5",
-    "latestSnapshot": "25w17a",
+    "latestSnapshot": "25w18a",
     "downloadLinks": [
+      {
+        "version": "25w18a",
+        "link": "https://piston-data.mojang.com/v1/objects/e69d69f1817f6c52f6ad2ca73ee1ef8a6903e560/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "25w17a",
         "link": "https://piston-data.mojang.com/v1/objects/575756f90e54e5c2cd78997dd9e3579936aa9d6d/server.jar",
@@ -523,11 +528,6 @@
       {
         "version": "25w15a",
         "link": "https://piston-data.mojang.com/v1/objects/fed01fcdf4d2f37b3f847e08fd099714766533c3/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "25w14craftmine",
-        "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar",
         "isSnapshot": true
       },
       {
