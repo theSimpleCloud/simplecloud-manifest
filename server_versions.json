@@ -327,8 +327,93 @@
     "name": "Leaf",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "",
-    "downloadLinks": []
+    "latestVersion": "1.21.5",
+    "downloadLinks": [
+      {
+        "version": "1.21.5",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.5/leaf-1.21.5-13.jar"
+      },
+      {
+        "version": "1.21.4",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-352.jar"
+      },
+      {
+        "version": "1.21.3",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.3/leaf-1.21.3.jar"
+      },
+      {
+        "version": "1.21.1",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.1/leaf-1.21.1.jar"
+      },
+      {
+        "version": "1.21",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21/leaf-1.21.jar"
+      },
+      {
+        "version": "1.20.6",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.20.6/leaf-1.20.6-mojmap.jar"
+      },
+      {
+        "version": "1.20.4",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.20.4/leaf-1.20.4.jar"
+      },
+      {
+        "version": "1.20.2",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.20.2/leaf-1.20.2.jar"
+      },
+      {
+        "version": "1.20.1",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.20.1/leaf-1.20.1.jar"
+      },
+      {
+        "version": "1.20",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.20/leaf-1.20.jar"
+      },
+      {
+        "version": "1.19.4",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.19.4/leaf-1.19.4.jar"
+      },
+      {
+        "version": "1.19.3",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.19.3/leaf-1.19.3.jar"
+      },
+      {
+        "version": "1.19.2",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.19.2/leaf-1.19.2.jar"
+      },
+      {
+        "version": "1.19.1-v1",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/1.19.1-v1/leaf-paperclip-1.19.1-R0.1-SNAPSHOT-reobf.jar"
+      },
+      {
+        "version": "purpur-1.19.3",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/purpur-1.19.3/leafpurpur-1.19.3.jar"
+      },
+      {
+        "version": "20221228",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/20221228/leaf-1.19.3.jar"
+      },
+      {
+        "version": "221221",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/221221/leaf-1.19.3.jar"
+      },
+      {
+        "version": "221203",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/221203/leafkeyi-1.19.2.jar"
+      },
+      {
+        "version": "221017(LeafPrismarine-1.19.2)",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/221017%28LeafPrismarine-1.19.2%29/leafprismarine-paperclip-1.19.2-R0.1-SNAPSHOT-reobf.jar"
+      },
+      {
+        "version": "221017(LeafMirai-1.19.2)",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/221017%28LeafMirai-1.19.2%29/leafmirai-paperclip-1.19.2-R0.1-SNAPSHOT-reobf.jar"
+      },
+      {
+        "version": "221017(Leaf-1.19.2)",
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/221017%28Leaf-1.19.2%29/leaf-paperclip-1.19.2-R0.1-SNAPSHOT-reobf.jar"
+      }
+    ]
   },
   {
     "name": "Purpur",
