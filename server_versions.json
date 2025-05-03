@@ -584,6 +584,13 @@
     ]
   },
   {
+    "name": "Fabric",
+    "type": "SERVER",
+    "isPaperclip": false,
+    "latestVersion": "",
+    "downloadLinks": []
+  },
+  {
     "name": "Windspigot",
     "type": "SERVER",
     "isPaperclip": false,
