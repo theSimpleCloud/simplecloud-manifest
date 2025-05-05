@@ -335,7 +335,7 @@
       },
       {
         "version": "1.21.4",
-        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-354.jar"
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-359.jar"
       },
       {
         "version": "1.21.3",
@@ -423,7 +423,7 @@
     "downloadLinks": [
       {
         "version": "1.21.5",
-        "link": "https://api.purpurmc.org/v2/purpur/1.21.5/2425/download?minecraft_version=1.21.5\u0026build=2425"
+        "link": "https://api.purpurmc.org/v2/purpur/1.21.5/2428/download?minecraft_version=1.21.5\u0026build=2428"
       },
       {
         "version": "1.21.4",
