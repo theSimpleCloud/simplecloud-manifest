@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.5",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/69/downloads/paper-1.21.5-69.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/73/downloads/paper-1.21.5-73.jar"
       },
       {
         "version": "1.21.4",
@@ -335,7 +335,7 @@
       },
       {
         "version": "1.21.4",
-        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-360.jar"
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-361.jar"
       },
       {
         "version": "1.21.3",
@@ -756,8 +756,13 @@
     "type": "SERVER",
     "isPaperclip": false,
     "latestVersion": "1.21.5",
-    "latestSnapshot": "25w18a",
+    "latestSnapshot": "25w19a",
     "downloadLinks": [
+      {
+        "version": "25w19a",
+        "link": "https://piston-data.mojang.com/v1/objects/cd279a0a79fd62f41c9dd8d17d455d06ff4d8013/server.jar",
+        "isSnapshot": true
+      },
       {
         "version": "25w18a",
         "link": "https://piston-data.mojang.com/v1/objects/e69d69f1817f6c52f6ad2ca73ee1ef8a6903e560/server.jar",
@@ -771,11 +776,6 @@
       {
         "version": "25w16a",
         "link": "https://piston-data.mojang.com/v1/objects/3d8223843a659d8ebc33459864ba02b34485ea11/server.jar",
-        "isSnapshot": true
-      },
-      {
-        "version": "25w15a",
-        "link": "https://piston-data.mojang.com/v1/objects/fed01fcdf4d2f37b3f847e08fd099714766533c3/server.jar",
         "isSnapshot": true
       },
       {
