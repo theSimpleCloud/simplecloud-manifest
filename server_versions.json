@@ -143,11 +143,11 @@
     "downloadLinks": [
       {
         "version": "1.21.5",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/76/downloads/paper-1.21.5-76.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/77/downloads/paper-1.21.5-77.jar"
       },
       {
         "version": "1.21.4",
-        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/229/downloads/paper-1.21.4-229.jar"
+        "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/230/downloads/paper-1.21.4-230.jar"
       },
       {
         "version": "1.21.3",
@@ -335,7 +335,7 @@
       },
       {
         "version": "1.21.4",
-        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-386.jar"
+        "link": "https://github.com/Winds-Studio/Leaf/releases/download/ver-1.21.4/leaf-1.21.4-390.jar"
       },
       {
         "version": "1.21.3",
