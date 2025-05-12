@@ -148,5 +148,17 @@
          "discord":"Serverbauer",
          "portfolio":"https://finnabout.eu/"
       }
+   },
+   {
+      "username":"byPixelTV",
+      "role":"Developer & Administrator",
+      "skinUrl":"https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/bypixeltv.png",
+      "comment":"After discovering SimpleCloud, I have always loved the simplicity of the cloud. It is easy to use and compared to other clouds, everything is very easy to understand. I can only recommend it to everyone.",
+      "userSince":"Spring 2025",
+      "testimonialDate":"12th May 2025",
+      "socials":{
+         "github":"byPixelTV",
+         "youtube":"byPixelTV."
+      }
    }
 ]
