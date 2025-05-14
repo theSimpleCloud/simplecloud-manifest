@@ -100,92 +100,12 @@
     "type": "PROXY",
     "isPaperclip": false,
     "latestVersion": "1.21",
-    "downloadLinks": [
+    "downloadLinks":[
       {
-        "version": "1.21",
-        "link": "https://s3.mcjars.app/bungeecord/1.21/1941/server.jar?minecraft_version=1.21\u0026build=1941"
-      },
-      {
-        "version": "1.20",
-        "link": "https://s3.mcjars.app/bungeecord/1.20/1848/server.jar?minecraft_version=1.20\u0026build=1848"
-      },
-      {
-        "version": "1.19",
-        "link": "https://s3.mcjars.app/bungeecord/1.19/1708/server.jar?minecraft_version=1.19\u0026build=1708"
-      },
-      {
-        "version": "1.18",
-        "link": "https://s3.mcjars.app/bungeecord/1.18/1636/server.jar?minecraft_version=1.18\u0026build=1636"
-      },
-      {
-        "version": "1.17",
-        "link": "https://s3.mcjars.app/bungeecord/1.17/1609/server.jar?minecraft_version=1.17\u0026build=1609"
-      },
-      {
-        "version": "1.16",
-        "link": "https://s3.mcjars.app/bungeecord/1.16/1575/server.jar?minecraft_version=1.16\u0026build=1575"
-      },
-      {
-        "version": "1.15",
-        "link": "https://s3.mcjars.app/bungeecord/1.15/1500/server.jar?minecraft_version=1.15\u0026build=1500"
-      },
-      {
-        "version": "1.14",
-        "link": "https://s3.mcjars.app/bungeecord/1.14/1425/server.jar?minecraft_version=1.14\u0026build=1425"
-      },
-      {
-        "version": "1.13",
-        "link": "https://s3.mcjars.app/bungeecord/1.13/1402/server.jar?minecraft_version=1.13\u0026build=1402"
-      },
-      {
-        "version": "1.12",
-        "link": "https://s3.mcjars.app/bungeecord/1.12/1329/server.jar?minecraft_version=1.12\u0026build=1329"
-      },
-      {
-        "version": "1.11",
-        "link": "https://s3.mcjars.app/bungeecord/1.11/1232/server.jar?minecraft_version=1.11\u0026build=1232"
-      },
-      {
-        "version": "1.10",
-        "link": "https://s3.mcjars.app/bungeecord/1.10/1199/server.jar?minecraft_version=1.10\u0026build=1199"
-      },
-      {
-        "version": "1.9",
-        "link": "https://s3.mcjars.app/bungeecord/1.9/1157/server.jar?minecraft_version=1.9\u0026build=1157"
-      },
-      {
-        "version": "1.8",
-        "link": "https://s3.mcjars.app/bungeecord/1.8/1119/server.jar?minecraft_version=1.8\u0026build=1119"
-      },
-      {
-        "version": "1.7",
-        "link": "https://s3.mcjars.app/bungeecord/1.7/991/server.jar?minecraft_version=1.7\u0026build=991"
-      },
-      {
-        "version": "1.6.4",
-        "link": "https://s3.mcjars.app/bungeecord/1.6.4/701/server.jar?minecraft_version=1.6.4\u0026build=701"
-      },
-      {
-        "version": "1.6.2",
-        "link": "https://s3.mcjars.app/bungeecord/1.6.2/669/server.jar?minecraft_version=1.6.2\u0026build=669"
-      },
-      {
-        "version": "1.6.1",
-        "link": "https://s3.mcjars.app/bungeecord/1.6.1/596/server.jar?minecraft_version=1.6.1\u0026build=596"
-      },
-      {
-        "version": "1.5",
-        "link": "https://s3.mcjars.app/bungeecord/1.5/559/server.jar?minecraft_version=1.5\u0026build=559"
-      },
-      {
-        "version": "1.4.7",
-        "link": "https://s3.mcjars.app/bungeecord/1.4.7/269/server.jar?minecraft_version=1.4.7\u0026build=269"
-      },
-      {
-        "version": "1.0",
-        "link": "https://s3.mcjars.app/bungeecord/1.0/101/server.jar?minecraft_version=1.0\u0026build=101"
+         "version":"latest",
+         "link":"https://ci.md-5.net/job/BungeeCord/lastSuccessfulBuild/artifact/bootstrap/target/BungeeCord.jar"
       }
-    ]
+   ]
   },
   {
     "name": "Travertine",
