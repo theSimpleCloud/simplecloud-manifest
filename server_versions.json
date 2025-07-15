@@ -143,7 +143,7 @@
     "downloadLinks": [
       {
         "version": "1.21.7",
-        "link": "https://fill-data.papermc.io/v1/objects/3c088d399dd3b83764653bee7c7c4f30b207fab7b97c4e4227bf96b853b2158a/paper-1.21.7-26.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/6d2ce4899eecb56a0169ca3df75b791e194975c1c521f87a71b56e373036688b/paper-1.21.7-28.jar",
         "javaMinimum": 21,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -481,7 +481,7 @@
       },
       {
         "version": "1.19.4",
-        "link": "https://fill-data.papermc.io/v1/objects/e587d78cba3e99ef8c4bc24cf20cc3bdbbe89e33b0b572070446af4eb6be5ccf/paper-1.19.4-550.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/7139954cc4bf554538cbff1c4d939fb57e2de33596f83209d5ba49b362e2eae7/paper-1.19.4-550-mojang.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -507,7 +507,7 @@
       },
       {
         "version": "1.19.3",
-        "link": "https://fill-data.papermc.io/v1/objects/b695b4de5d58cf4c4f0493590f911b5c6b97909f5cc503de40c9e71f07303064/paper-1.19.3-448-mojang.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/3007f2c638d5f04ed32b6adaa33053fe3634ccfa74345c83d3ea4982d38db5dc/paper-1.19.3-448.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -585,7 +585,7 @@
       },
       {
         "version": "1.19",
-        "link": "https://fill-data.papermc.io/v1/objects/0d39cacc51a77b2b071e1ce862fcbf0b4a4bd668cc7e8b313598d84fa09fabac/paper-1.19-81.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/944bb54712f794f4b356f265b464f6694ef17997960dd46cc5217346d7b8b2e9/paper-1.19-81-mojang.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -611,7 +611,7 @@
       },
       {
         "version": "1.18.2",
-        "link": "https://fill-data.papermc.io/v1/objects/a7f99fa2b623222de3a7fc8fe00a30e8dcffd84817f52a374b40961f186535a5/paper-1.18.2-388-mojang.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/0578f18f4d632b494b468ec56b3b414b5b56fea087ee7d39cf6dcdf4c9d01f05/paper-1.18.2-388.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -1683,7 +1683,7 @@
       },
       {
         "version": "1.20.2",
-        "link": "https://fill-data.papermc.io/v1/objects/d01746e0176b6ef1ae0bef65bc3fa44e2f2063eaa8ab78f9e941345268d4c9e5/folia-1.20.2-20.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/bcbcbd3e77ec9b3e1fa73878ff8e3b82f967f5b70a5f3f5539ca9f714573efc5/folia-1.20.2-20-mojang.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -2576,64 +2576,48 @@
         "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%201/0.16.14/1.0.3.jar"
       },
       {
-        "version": "1.14.2 Pre-Release 4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%204/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "1.14.1 Pre-Release 2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%202/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%203/0.16.14/1.0.3.jar"
+        "version": "1.14.2 Pre-Release 1",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%201/0.16.14/1.0.3.jar"
       },
       {
         "version": "1.14.2 Pre-Release 2",
         "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%202/0.16.14/1.0.3.jar"
       },
       {
-        "version": "1.14.2 Pre-Release 1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%201/0.16.14/1.0.3.jar"
+        "version": "1.14.2 Pre-Release 3",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%203/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "1.14.1 Pre-Release 2",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%202/0.16.14/1.0.3.jar"
       },
       {
         "version": "1.14",
         "link": "https://versions.mcjars.app/download/fabric/1.14/0.16.14/1.0.3.jar"
       },
       {
-        "version": "22w13oneblockatatime",
-        "link": "https://versions.mcjars.app/download/fabric/22w13oneblockatatime/0.16.14/1.0.3.jar"
+        "version": "1.14.2 Pre-Release 4",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%204/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 4",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%204/0.16.14/1.0.3.jar"
       },
       {
         "version": "1.14 Pre-Release 3",
         "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%203/0.16.14/1.0.3.jar"
       },
       {
+        "version": "22w13oneblockatatime",
+        "link": "https://versions.mcjars.app/download/fabric/22w13oneblockatatime/0.16.14/1.0.3.jar"
+      },
+      {
         "version": "3D Shareware v1.34",
         "link": "https://versions.mcjars.app/download/fabric/3D%20Shareware%20v1.34/0.16.14/1.0.3.jar"
       },
       {
-        "version": "1.14 Pre-Release 5",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%205/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%201/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "24w14potato",
-        "link": "https://versions.mcjars.app/download/fabric/24w14potato/0.16.14/1.0.3.jar"
-      },
-      {
         "version": "1.14 Pre-Release 2",
         "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%202/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "23w13a_or_b",
-        "link": "https://versions.mcjars.app/download/fabric/23w13a_or_b/0.16.14/1.0.3.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%204/0.16.14/1.0.3.jar"
       },
       {
         "version": "25w14craftmine",
@@ -2642,6 +2626,22 @@
       {
         "version": "20w14infinite",
         "link": "https://versions.mcjars.app/download/fabric/20w14infinite/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 5",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%205/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "23w13a_or_b",
+        "link": "https://versions.mcjars.app/download/fabric/23w13a_or_b/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 1",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%201/0.16.14/1.0.3.jar"
+      },
+      {
+        "version": "24w14potato",
+        "link": "https://versions.mcjars.app/download/fabric/24w14potato/0.16.14/1.0.3.jar"
       }
     ]
   },
@@ -3469,32 +3469,32 @@
         "link": "https://piston-data.mojang.com/v1/objects/ed76d597a44c5266be2a7fcd77a8270f1f0bc118/server.jar"
       },
       {
-        "version": "1.14.2 Pre-Release 1",
-        "link": "https://piston-data.mojang.com/v1/objects/1aad89bfe7a14bee70de0b07339a2f319771180f/server.jar"
-      },
-      {
-        "version": "1.14.1 Pre-Release 2",
-        "link": "https://piston-data.mojang.com/v1/objects/ea3a8bee27e1ca4185bf703fb4e414800f533fc9/server.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 3",
-        "link": "https://piston-data.mojang.com/v1/objects/307fb7e6208bd843060b1844857dc5e1d555a1df/server.jar"
-      },
-      {
         "version": "1.14",
         "link": "https://piston-data.mojang.com/v1/objects/f1a0073671057f01aa843443fef34330281333ce/server.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 4",
-        "link": "https://piston-data.mojang.com/v1/objects/6bba54ad86fccc45cc68ba410e738d3b331cdadd/server.jar"
       },
       {
         "version": "1.14.2 Pre-Release 2",
         "link": "https://piston-data.mojang.com/v1/objects/a2cedc73237e999a5d408ecf0923a130d69d45a1/server.jar"
       },
       {
+        "version": "1.14.2 Pre-Release 3",
+        "link": "https://piston-data.mojang.com/v1/objects/307fb7e6208bd843060b1844857dc5e1d555a1df/server.jar"
+      },
+      {
+        "version": "1.14.2 Pre-Release 4",
+        "link": "https://piston-data.mojang.com/v1/objects/6bba54ad86fccc45cc68ba410e738d3b331cdadd/server.jar"
+      },
+      {
         "version": "1.14.1 Pre-Release 1",
         "link": "https://piston-data.mojang.com/v1/objects/0bbed1aa2ef4bd4c0d6134461ac3e8eba1dc5f62/server.jar"
+      },
+      {
+        "version": "1.14.2 Pre-Release 1",
+        "link": "https://piston-data.mojang.com/v1/objects/1aad89bfe7a14bee70de0b07339a2f319771180f/server.jar"
+      },
+      {
+        "version": "1.14.1 Pre-Release 2",
+        "link": "https://piston-data.mojang.com/v1/objects/ea3a8bee27e1ca4185bf703fb4e414800f533fc9/server.jar"
       },
       {
         "version": "1.13.2",
@@ -3961,52 +3961,52 @@
         "link": "https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar"
       },
       {
-        "version": "23w13a_or_b",
-        "link": "https://piston-data.mojang.com/v1/objects/6241fc14ce7a659f371683a72aa24c155f60cce1/server.jar"
-      },
-      {
-        "version": "3D Shareware v1.34",
-        "link": "https://piston-data.mojang.com/v1/objects/ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f/server.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 1",
-        "link": "https://piston-data.mojang.com/v1/objects/6f27430bcd9b06d3dcb5d2966c75d5e491915c9c/server.jar"
-      },
-      {
-        "version": "20w14infinite",
-        "link": "https://piston-data.mojang.com/v1/objects/c0711cd9608d1af3d6f05ac423dd8f4199780225/server.jar"
+        "version": "25w14craftmine",
+        "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar"
       },
       {
         "version": "1.14 Pre-Release 3",
         "link": "https://piston-data.mojang.com/v1/objects/6b747e1338e1aa058146032a659cf654c446552d/server.jar"
       },
       {
-        "version": "24w14potato",
-        "link": "https://piston-data.mojang.com/v1/objects/2d29eee4f5a71f323d20b36d623e2ec21dab74f7/server.jar"
+        "version": "20w14infinite",
+        "link": "https://piston-data.mojang.com/v1/objects/c0711cd9608d1af3d6f05ac423dd8f4199780225/server.jar"
       },
       {
-        "version": "1.RV-Pre1",
-        "link": "https://piston-data.mojang.com/v1/objects/f51d9489706f603be6be9716407f1dab5f7f2733/server.jar"
+        "version": "1.14 Pre-Release 1",
+        "link": "https://piston-data.mojang.com/v1/objects/6f27430bcd9b06d3dcb5d2966c75d5e491915c9c/server.jar"
       },
       {
         "version": "1.14 Pre-Release 4",
         "link": "https://piston-data.mojang.com/v1/objects/cf967a23b452ab474bf7bcb69fd029a5f8b84bba/server.jar"
       },
       {
+        "version": "23w13a_or_b",
+        "link": "https://piston-data.mojang.com/v1/objects/6241fc14ce7a659f371683a72aa24c155f60cce1/server.jar"
+      },
+      {
         "version": "1.14 Pre-Release 2",
         "link": "https://piston-data.mojang.com/v1/objects/353cc74b9aefd4675730449f50f5c0066063ac3f/server.jar"
       },
       {
-        "version": "1.14 Pre-Release 5",
-        "link": "https://piston-data.mojang.com/v1/objects/5d550762b9c82ab4fe9f259c14fcf7bf7ed8017a/server.jar"
+        "version": "1.RV-Pre1",
+        "link": "https://piston-data.mojang.com/v1/objects/f51d9489706f603be6be9716407f1dab5f7f2733/server.jar"
+      },
+      {
+        "version": "24w14potato",
+        "link": "https://piston-data.mojang.com/v1/objects/2d29eee4f5a71f323d20b36d623e2ec21dab74f7/server.jar"
+      },
+      {
+        "version": "3D Shareware v1.34",
+        "link": "https://piston-data.mojang.com/v1/objects/ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f/server.jar"
       },
       {
         "version": "22w13oneblockatatime",
         "link": "https://piston-data.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar"
       },
       {
-        "version": "25w14craftmine",
-        "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar"
+        "version": "1.14 Pre-Release 5",
+        "link": "https://piston-data.mojang.com/v1/objects/5d550762b9c82ab4fe9f259c14fcf7bf7ed8017a/server.jar"
       }
     ]
   }
