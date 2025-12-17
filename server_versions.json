@@ -1027,7 +1027,7 @@
       },
       {
         "version": "1.18",
-        "link": "https://fill-data.papermc.io/v1/objects/a43209820ba6e4de41670ef79dd7d9d8849a15d9878db101209ca457ccc815bd/paper-1.18-66-mojang.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/3c995f20dae4e4e21d5554fac957a0a8a5c85bd5bf34915fac4b4f16e0ef101b/paper-1.18-66.jar",
         "javaMinimum": 17,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -1743,7 +1743,7 @@
     "downloadLinks": [
       {
         "version": "1.21.8",
-        "link": "https://files.mcjars.app/leaf/1.21.8/155/server.jar"
+        "link": "https://files.mcjars.app/leaf/1.21.8/156/server.jar"
       },
       {
         "version": "1.21.7",
@@ -1939,8 +1939,34 @@
     "name": "Folia",
     "type": "SERVER",
     "isPaperclip": true,
-    "latestVersion": "1.21.8",
+    "latestVersion": "1.21.11",
     "downloadLinks": [
+      {
+        "version": "1.21.11",
+        "link": "https://fill-data.papermc.io/v1/objects/15e2a9dcca5f11f4aa02cf36a9d01ea2972ddaa5d479edeabc08bc83a32a48e3/folia-1.21.11-2.jar",
+        "javaMinimum": 21,
+        "javaRecommendedFlags": [
+          "-XX:+AlwaysPreTouch",
+          "-XX:+DisableExplicitGC",
+          "-XX:+ParallelRefProcEnabled",
+          "-XX:+PerfDisableSharedMem",
+          "-XX:+UnlockExperimentalVMOptions",
+          "-XX:+UseG1GC",
+          "-XX:G1HeapRegionSize=8M",
+          "-XX:G1HeapWastePercent=5",
+          "-XX:G1MaxNewSizePercent=40",
+          "-XX:G1MixedGCCountTarget=4",
+          "-XX:G1MixedGCLiveThresholdPercent=90",
+          "-XX:G1NewSizePercent=30",
+          "-XX:G1RSetUpdatingPauseTimePercent=5",
+          "-XX:G1ReservePercent=20",
+          "-XX:InitiatingHeapOccupancyPercent=15",
+          "-XX:MaxGCPauseMillis=200",
+          "-XX:MaxTenuringThreshold=1",
+          "-XX:SurvivorRatio=32"
+        ],
+        "supportStatus": "SUPPORTED"
+      },
       {
         "version": "1.21.8",
         "link": "https://fill-data.papermc.io/v1/objects/233843cfd5001b6f658fcab549178d694cc37f0277d004ea295de0a94c57278f/folia-1.21.8-6.jar",
@@ -2181,959 +2207,963 @@
     "name": "Fabric",
     "type": "SERVER",
     "isPaperclip": false,
-    "latestVersion": "1.21.11",
+    "latestVersion": "26.1-snapshot-1",
     "downloadLinks": [
       {
+        "version": "26.1-snapshot-1",
+        "link": "https://versions.mcjars.app/download/fabric/26.1-snapshot-1/0.18.3/1.1.0.jar"
+      },
+      {
         "version": "1.21.11",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.11-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.11-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.10",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.10/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.10/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.10-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.10-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.10-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.9-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.9-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.8",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.8/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.8/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.8-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.8-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.8-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.7",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.7-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.7-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.7-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.7-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.7-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.7-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.6-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.6-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.5-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.5-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.4-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.4-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.2-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.2-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21.1-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21.1-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21.1-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21",
-        "link": "https://versions.mcjars.app/download/fabric/1.21/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.21-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.21-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.21-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.21-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.21-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.21-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.6",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.6-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.6-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.6-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.5-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.5-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.4",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.4-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.4-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.4-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.3-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.3-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.2-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.2-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20.1-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20.1-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20.1-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20",
-        "link": "https://versions.mcjars.app/download/fabric/1.20/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre7",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.20-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.20-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.20-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.4-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.4-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.3-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.3-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.2-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.2-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.2-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.2-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.2-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.2-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19.1-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19.1-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19",
-        "link": "https://versions.mcjars.app/download/fabric/1.19/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.19-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.19-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.19-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.2-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.2-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.2-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.2-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.2-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.2-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.2-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.1-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.1-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.1-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.1-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18.1-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18.1-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18.1-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18",
-        "link": "https://versions.mcjars.app/download/fabric/1.18/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-rc4",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-rc4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-rc4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-rc3",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-rc3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-rc3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre8",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre8/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre8/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre7",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.18-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.18-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.18-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17.1-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17.1-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17",
-        "link": "https://versions.mcjars.app/download/fabric/1.17/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.17-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.17-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.17-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.5",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.5-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.5-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.5-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.4",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.4-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.4-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.4-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.4-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.4-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.4-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.4-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.4-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.4-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.3",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.3-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.3-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.3-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2-rc2",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2-rc2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2-rc2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.2-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.2-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16",
-        "link": "https://versions.mcjars.app/download/fabric/1.16/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-rc1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-rc1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-rc1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre8",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre8/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre8/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre7",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.16-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.16-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.16-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.15.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15.2-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.15.2-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15.2-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15.2-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.15.2-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15.2-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.15.1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15.1-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.15.1-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15.1-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15",
-        "link": "https://versions.mcjars.app/download/fabric/1.15/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre7",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.15-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.15-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.15-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre7",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre7/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre7/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre6",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre6/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre6/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre5",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre5/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre5/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.4-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.4-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.3-pre4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre4/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre4/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.3-pre3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre3/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre3/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.3-pre2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.3-pre1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre1/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.3-pre1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.1/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%202/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%201/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.1/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.1 Pre-Release 2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%202/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14.2 Pre-Release 4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%204/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%202/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.2 Pre-Release 3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%203/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%203/0.18.3/1.1.0.jar"
       },
       {
-        "version": "1.14",
-        "link": "https://versions.mcjars.app/download/fabric/1.14/0.18.2/1.1.0.jar"
+        "version": "1.14.2 Pre-Release 1",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%201/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14.1 Pre-Release 1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%201/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14.1%20Pre-Release%201/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14.2 Pre-Release 4",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%204/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14",
+        "link": "https://versions.mcjars.app/download/fabric/1.14/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14.2 Pre-Release 2",
+        "link": "https://versions.mcjars.app/download/fabric/1.14.2%20Pre-Release%202/0.18.3/1.1.0.jar"
       },
       {
         "version": "3D Shareware v1.34",
-        "link": "https://versions.mcjars.app/download/fabric/3D%20Shareware%20v1.34/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 3",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%203/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/3D%20Shareware%20v1.34/0.18.3/1.1.0.jar"
       },
       {
         "version": "24w14potato",
-        "link": "https://versions.mcjars.app/download/fabric/24w14potato/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "23w13a_or_b",
-        "link": "https://versions.mcjars.app/download/fabric/23w13a_or_b/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/24w14potato/0.18.3/1.1.0.jar"
       },
       {
         "version": "25w14craftmine",
-        "link": "https://versions.mcjars.app/download/fabric/25w14craftmine/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/25w14craftmine/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14 Pre-Release 4",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%204/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%204/0.18.3/1.1.0.jar"
       },
       {
-        "version": "22w13oneblockatatime",
-        "link": "https://versions.mcjars.app/download/fabric/22w13oneblockatatime/0.18.2/1.1.0.jar"
+        "version": "23w13a_or_b",
+        "link": "https://versions.mcjars.app/download/fabric/23w13a_or_b/0.18.3/1.1.0.jar"
       },
       {
         "version": "20w14infinite",
-        "link": "https://versions.mcjars.app/download/fabric/20w14infinite/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 1",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%201/0.18.2/1.1.0.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 5",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%205/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/20w14infinite/0.18.3/1.1.0.jar"
       },
       {
         "version": "1.14 Pre-Release 2",
-        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%202/0.18.2/1.1.0.jar"
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%202/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 3",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%203/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "22w13oneblockatatime",
+        "link": "https://versions.mcjars.app/download/fabric/22w13oneblockatatime/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 1",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%201/0.18.3/1.1.0.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 5",
+        "link": "https://versions.mcjars.app/download/fabric/1.14%20Pre-Release%205/0.18.3/1.1.0.jar"
       }
     ]
   },
@@ -3153,9 +3183,13 @@
     "name": "Vanilla",
     "type": "SERVER",
     "isPaperclip": false,
-    "latestVersion": "1.21.11",
+    "latestVersion": "26.1-snapshot-1",
     "latestSnapshot": "25w20a",
     "downloadLinks": [
+      {
+        "version": "26.1-snapshot-1",
+        "link": "https://piston-data.mojang.com/v1/objects/99786473e61ff6fcf0df4db9e0d6c9012c196116/server.jar"
+      },
       {
         "version": "1.21.11",
         "link": "https://piston-data.mojang.com/v1/objects/64bb6d763bed0a9f1d632ec347938594144943ed/server.jar"
@@ -4037,16 +4071,24 @@
         "link": "https://piston-data.mojang.com/v1/objects/ed76d597a44c5266be2a7fcd77a8270f1f0bc118/server.jar"
       },
       {
-        "version": "1.14.2 Pre-Release 2",
-        "link": "https://piston-data.mojang.com/v1/objects/a2cedc73237e999a5d408ecf0923a130d69d45a1/server.jar"
+        "version": "1.14.2 Pre-Release 1",
+        "link": "https://piston-data.mojang.com/v1/objects/1aad89bfe7a14bee70de0b07339a2f319771180f/server.jar"
       },
       {
         "version": "1.14.2 Pre-Release 3",
         "link": "https://piston-data.mojang.com/v1/objects/307fb7e6208bd843060b1844857dc5e1d555a1df/server.jar"
       },
       {
-        "version": "1.14.2 Pre-Release 1",
-        "link": "https://piston-data.mojang.com/v1/objects/1aad89bfe7a14bee70de0b07339a2f319771180f/server.jar"
+        "version": "1.14.2 Pre-Release 2",
+        "link": "https://piston-data.mojang.com/v1/objects/a2cedc73237e999a5d408ecf0923a130d69d45a1/server.jar"
+      },
+      {
+        "version": "1.14.1 Pre-Release 2",
+        "link": "https://piston-data.mojang.com/v1/objects/ea3a8bee27e1ca4185bf703fb4e414800f533fc9/server.jar"
+      },
+      {
+        "version": "1.14.1 Pre-Release 1",
+        "link": "https://piston-data.mojang.com/v1/objects/0bbed1aa2ef4bd4c0d6134461ac3e8eba1dc5f62/server.jar"
       },
       {
         "version": "1.14.2 Pre-Release 4",
@@ -4055,14 +4097,6 @@
       {
         "version": "1.14",
         "link": "https://piston-data.mojang.com/v1/objects/f1a0073671057f01aa843443fef34330281333ce/server.jar"
-      },
-      {
-        "version": "1.14.1 Pre-Release 1",
-        "link": "https://piston-data.mojang.com/v1/objects/0bbed1aa2ef4bd4c0d6134461ac3e8eba1dc5f62/server.jar"
-      },
-      {
-        "version": "1.14.1 Pre-Release 2",
-        "link": "https://piston-data.mojang.com/v1/objects/ea3a8bee27e1ca4185bf703fb4e414800f533fc9/server.jar"
       },
       {
         "version": "1.13.2",
@@ -4529,52 +4563,52 @@
         "link": "https://launcher.mojang.com/v1/objects/d8321edc9470e56b8ad5c67bbd16beba25843336/server.jar"
       },
       {
-        "version": "22w13oneblockatatime",
-        "link": "https://piston-data.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar"
-      },
-      {
         "version": "1.14 Pre-Release 1",
         "link": "https://piston-data.mojang.com/v1/objects/6f27430bcd9b06d3dcb5d2966c75d5e491915c9c/server.jar"
+      },
+      {
+        "version": "1.14 Pre-Release 4",
+        "link": "https://piston-data.mojang.com/v1/objects/cf967a23b452ab474bf7bcb69fd029a5f8b84bba/server.jar"
       },
       {
         "version": "24w14potato",
         "link": "https://piston-data.mojang.com/v1/objects/2d29eee4f5a71f323d20b36d623e2ec21dab74f7/server.jar"
       },
       {
-        "version": "1.14 Pre-Release 5",
-        "link": "https://piston-data.mojang.com/v1/objects/5d550762b9c82ab4fe9f259c14fcf7bf7ed8017a/server.jar"
+        "version": "1.14 Pre-Release 2",
+        "link": "https://piston-data.mojang.com/v1/objects/353cc74b9aefd4675730449f50f5c0066063ac3f/server.jar"
       },
       {
-        "version": "1.RV-Pre1",
-        "link": "https://piston-data.mojang.com/v1/objects/f51d9489706f603be6be9716407f1dab5f7f2733/server.jar"
+        "version": "1.14 Pre-Release 5",
+        "link": "https://piston-data.mojang.com/v1/objects/5d550762b9c82ab4fe9f259c14fcf7bf7ed8017a/server.jar"
       },
       {
         "version": "23w13a_or_b",
         "link": "https://piston-data.mojang.com/v1/objects/6241fc14ce7a659f371683a72aa24c155f60cce1/server.jar"
       },
       {
-        "version": "1.14 Pre-Release 3",
-        "link": "https://piston-data.mojang.com/v1/objects/6b747e1338e1aa058146032a659cf654c446552d/server.jar"
-      },
-      {
-        "version": "3D Shareware v1.34",
-        "link": "https://piston-data.mojang.com/v1/objects/ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f/server.jar"
-      },
-      {
-        "version": "1.14 Pre-Release 2",
-        "link": "https://piston-data.mojang.com/v1/objects/353cc74b9aefd4675730449f50f5c0066063ac3f/server.jar"
-      },
-      {
-        "version": "20w14infinite",
-        "link": "https://piston-data.mojang.com/v1/objects/c0711cd9608d1af3d6f05ac423dd8f4199780225/server.jar"
+        "version": "1.RV-Pre1",
+        "link": "https://piston-data.mojang.com/v1/objects/f51d9489706f603be6be9716407f1dab5f7f2733/server.jar"
       },
       {
         "version": "25w14craftmine",
         "link": "https://piston-data.mojang.com/v1/objects/4527a9019e37e001770787e4523b505f79cac4c5/server.jar"
       },
       {
-        "version": "1.14 Pre-Release 4",
-        "link": "https://piston-data.mojang.com/v1/objects/cf967a23b452ab474bf7bcb69fd029a5f8b84bba/server.jar"
+        "version": "1.14 Pre-Release 3",
+        "link": "https://piston-data.mojang.com/v1/objects/6b747e1338e1aa058146032a659cf654c446552d/server.jar"
+      },
+      {
+        "version": "22w13oneblockatatime",
+        "link": "https://piston-data.mojang.com/v1/objects/5f48eea55c7fd1881d9c63835b15dfb5bbcd3a67/server.jar"
+      },
+      {
+        "version": "3D Shareware v1.34",
+        "link": "https://piston-data.mojang.com/v1/objects/ffd306fc2aaa884755c5a6bf9fbd87aed26dd78f/server.jar"
+      },
+      {
+        "version": "20w14infinite",
+        "link": "https://piston-data.mojang.com/v1/objects/c0711cd9608d1af3d6f05ac423dd8f4199780225/server.jar"
       }
     ]
   }
