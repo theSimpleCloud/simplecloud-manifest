@@ -1776,6 +1776,13 @@
     ]
   },
   {
+    "name": "ASPaper",
+    "type": "SERVER",
+    "isPaperclip": true,
+    "latestVersion": "",
+    "downloadLinks": []
+  },
+  {
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
