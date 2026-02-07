@@ -160,5 +160,18 @@
          "github":"byPixelTV",
          "youtube":"byPixelTV."
       }
+   },
+   {
+      "username": "MrMending",
+      "role": "Developer",
+      "skinUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/testimonials/skins/mrmending.png",
+      "comment": "SimpleCloud is not the first cloud system I've used, but it's definitely the last one I want to use. It is easy to use yet still powerful. Fast, reliable, and designed to do exactly what I want.",
+      "userSince": "Winter 2022",
+      "testimonialDate": "30th Jul. 2025",
+      "socials": {
+         "discord": "teraprath",
+         "github": "teraprath",
+         "portfolio": "https://teraprath.dev"
+      }
    }
 ]
