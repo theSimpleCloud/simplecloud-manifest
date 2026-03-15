@@ -107,7 +107,7 @@
     "name": "BungeeCord",
     "type": "PROXY",
     "isPaperclip": false,
-    "latestVersion": "1.21",
+    "latestVersion": "latest",
     "downloadLinks": [
       {
         "version": "latest",
