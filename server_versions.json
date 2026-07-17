@@ -2467,7 +2467,7 @@
     "name": "Leaf",
     "type": "SERVER",
     "isPaperclip": true,
-    "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/leaf.png",
+    "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/leaf.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
       {
