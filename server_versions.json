@@ -2472,14 +2472,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://files.mcjars.app/leaf/26.2/27/server.jar",
+        "link": "https://files.mcjars.app/leaf/26.2/28/server.jar",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "a77c1f04-2213-412b-af9b-e1b6c75591b0",
-        "buildName": "#27",
-        "downloadSize": 81626339,
-        "publishedAt": "2026-07-16T17:21:54.944Z",
+        "buildUuid": "18c487e3-8561-4517-9f24-f80a59836c34",
+        "buildName": "#28",
+        "downloadSize": 81625126,
+        "publishedAt": "2026-07-18T03:59:44.357Z",
         "experimental": true
       },
       {
