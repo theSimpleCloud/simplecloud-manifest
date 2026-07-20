@@ -8,15 +8,15 @@
     "downloadLinks": [
       {
         "version": "4.1.0-SNAPSHOT",
-        "link": "https://fill-data.papermc.io/v1/objects/95ba0941466ec883e698cb5c69ba032726a5ce44eb81d0ce2fa1dc89b98524e1/velocity-4.1.0-SNAPSHOT-8.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/635ffe27b4fe1b97e61479012121d4e7c61a9eec99e6bd5a1f923053c2a259ce/velocity-4.1.0-SNAPSHOT-9.jar",
         "isSnapshot": false,
         "javaMinimum": 21,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "0d2f2af2-b3eb-4c0d-8702-b550e688fadd",
-        "buildName": "#8",
+        "buildUuid": "37f8f962-2ace-4aa2-97ec-d5ba44ca18a0",
+        "buildName": "#9",
         "projectVersion": "4.1.0-SNAPSHOT",
-        "downloadSize": 18821063,
-        "publishedAt": "2026-07-15T03:25:25.21Z"
+        "downloadSize": 18821225,
+        "publishedAt": "2026-07-19T16:05:20.029Z"
       },
       {
         "version": "4.0.0",
@@ -2472,14 +2472,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://files.mcjars.app/leaf/26.2/28/server.jar",
+        "link": "https://files.mcjars.app/leaf/26.2/33/server.jar",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "18c487e3-8561-4517-9f24-f80a59836c34",
-        "buildName": "#28",
-        "downloadSize": 81625126,
-        "publishedAt": "2026-07-18T03:59:44.357Z",
+        "buildUuid": "ff361b00-aaf4-4c11-99e5-4f44955ce35b",
+        "buildName": "#33",
+        "downloadSize": 81625396,
+        "publishedAt": "2026-07-19T21:18:20.314Z",
         "experimental": true
       },
       {
@@ -2615,10 +2615,10 @@
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "a783210e-7731-497d-b5bd-69774e839d4f",
+        "buildUuid": "b094ed26-b2ca-4fd0-acc5-56a25fd7d494",
         "buildName": "#26",
-        "downloadSize": 62027215,
-        "publishedAt": "2026-06-29T04:24:02.404Z",
+        "downloadSize": 62041221,
+        "publishedAt": "2026-07-19T18:15:29.454Z",
         "experimental": true
       },
       {
@@ -2627,10 +2627,10 @@
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "d933b2c8-1bf9-45cc-a145-4b7d17a7a87e",
+        "buildUuid": "996a3c7f-6b0b-483d-acde-cb62558d8c5b",
         "buildName": "#26",
-        "downloadSize": 60490723,
-        "publishedAt": "2026-06-29T01:52:54.371Z"
+        "downloadSize": 60490472,
+        "publishedAt": "2026-07-19T17:49:36.948Z"
       },
       {
         "version": "1.21.11",
@@ -2799,14 +2799,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://api.purpurmc.org/v2/purpur/26.2/2609/download",
+        "link": "https://api.purpurmc.org/v2/purpur/26.2/2613/download",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "89da258b-d073-46d9-8eb6-2e5e9f780637",
-        "buildName": "#2609",
-        "downloadSize": 64624248,
-        "publishedAt": "2026-07-17T04:16:34.799Z"
+        "buildUuid": "21cd9520-cfdc-4614-be8d-4c5d78b9ee58",
+        "buildName": "#2613",
+        "downloadSize": 64623978,
+        "publishedAt": "2026-07-19T23:15:08.163Z"
       },
       {
         "version": "26.1.2",
