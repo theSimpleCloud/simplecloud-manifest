@@ -416,7 +416,7 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://fill-data.papermc.io/v1/objects/597cb54eef27b318dfb7daef924f9bbe2816e6b0547f0f861b15b42337b6ccd5/paper-26.2-62.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/3f79f638434eb004a2d2ae7cc23235a6f95ca94e18480f05280bb9728bf1e8cf/paper-26.2-63.jar",
         "channel": "BETA",
         "javaMinimum": 25,
         "javaRecommendedFlags": [
@@ -440,10 +440,10 @@
           "-XX:SurvivorRatio=32"
         ],
         "supportStatus": "SUPPORTED",
-        "buildNumber": 62,
-        "downloadSize": 61741399,
-        "sha256": "597cb54eef27b318dfb7daef924f9bbe2816e6b0547f0f861b15b42337b6ccd5",
-        "publishedAt": "2026-07-17T17:14:52Z"
+        "buildNumber": 63,
+        "downloadSize": 61742417,
+        "sha256": "3f79f638434eb004a2d2ae7cc23235a6f95ca94e18480f05280bb9728bf1e8cf",
+        "publishedAt": "2026-07-21T11:27:16Z"
       },
       {
         "version": "26.2-rc-2",
@@ -2472,14 +2472,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://files.mcjars.app/leaf/26.2/34/server.jar",
+        "link": "https://files.mcjars.app/leaf/26.2/36/server.jar",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "75a34297-ef6a-4c42-b137-2d8f379315b1",
-        "buildName": "#34",
-        "downloadSize": 81625739,
-        "publishedAt": "2026-07-21T01:51:08.632Z",
+        "buildUuid": "f2c0f23d-6a22-4e0f-972e-a65b77073847",
+        "buildName": "#36",
+        "downloadSize": 81622812,
+        "publishedAt": "2026-07-21T05:19:54.264Z",
         "experimental": true
       },
       {
@@ -2496,14 +2496,14 @@
       },
       {
         "version": "1.21.11",
-        "link": "https://files.mcjars.app/leaf/1.21.11/172/server.jar",
+        "link": "https://files.mcjars.app/leaf/1.21.11/173/server.jar",
         "isSnapshot": false,
         "javaMinimum": 21,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "93148a6f-0d28-4f8e-a9ab-550fbdf81b3d",
-        "buildName": "#172",
-        "downloadSize": 83879491,
-        "publishedAt": "2026-07-16T17:11:53.635Z"
+        "buildUuid": "78372278-d37d-4e5f-9d05-3e488afc2090",
+        "buildName": "#173",
+        "downloadSize": 83876241,
+        "publishedAt": "2026-07-21T05:15:47.738Z"
       },
       {
         "version": "1.21.8",
@@ -2615,10 +2615,10 @@
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "b094ed26-b2ca-4fd0-acc5-56a25fd7d494",
+        "buildUuid": "12c11eea-e578-4787-929c-88b3000ca706",
         "buildName": "#26",
-        "downloadSize": 62041221,
-        "publishedAt": "2026-07-19T18:15:29.454Z",
+        "downloadSize": 62041756,
+        "publishedAt": "2026-07-21T13:34:12.055Z",
         "experimental": true
       },
       {
@@ -2799,14 +2799,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://api.purpurmc.org/v2/purpur/26.2/2613/download",
+        "link": "https://api.purpurmc.org/v2/purpur/26.2/2614/download",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "21cd9520-cfdc-4614-be8d-4c5d78b9ee58",
-        "buildName": "#2613",
-        "downloadSize": 64623978,
-        "publishedAt": "2026-07-19T23:15:08.163Z"
+        "buildUuid": "8ee89899-ab9c-430e-8b41-70ccc3ef642b",
+        "buildName": "#2614",
+        "downloadSize": 64624480,
+        "publishedAt": "2026-07-21T23:56:44.242Z"
       },
       {
         "version": "26.1.2",
@@ -3601,8 +3601,20 @@
     "isPaperclip": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/fabric.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-4",
+    "latestSnapshot": "26.3-snapshot-5",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-5",
+        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-5/0.19.3/1.1.2.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "ff102b6d-c069-400b-bbda-cf47b77bb386",
+        "buildName": "0.19.3",
+        "projectVersion": "0.19.3",
+        "downloadSize": 181849,
+        "publishedAt": "2026-07-21T11:45:42Z"
+      },
       {
         "version": "26.3-snapshot-4",
         "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-4/0.19.3/1.1.1.jar",
@@ -4236,8 +4248,20 @@
     "isPaperclip": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/vanilla.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-4",
+    "latestSnapshot": "26.3-snapshot-5",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-5",
+        "link": "https://piston-data.mojang.com/v1/objects/bc881a3fc6e63c490e614ab3bf9c43adc0449ab2/server.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "363ce398-804a-463d-907c-64184c50e4ae",
+        "buildName": "#1",
+        "downloadSize": 61844421,
+        "publishedAt": "2026-07-21T13:45:42Z",
+        "experimental": true
+      },
       {
         "version": "26.3-snapshot-4",
         "link": "https://piston-data.mojang.com/v1/objects/12ce9ccac727a0ff37ba4aea9d11a73c493d70ca/server.jar",
