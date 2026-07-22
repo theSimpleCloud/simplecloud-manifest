@@ -19,3 +19,4 @@ Do not recolor, distort, or imply endorsement by the upstream projects.
 | Fabric | `fabric.png` | `https://docs.fabricmc.net/logo.png` | Official Fabric docs asset. |
 | WindSpigot | `windspigot.jpg` | `https://avatars.githubusercontent.com/u/101380739?s=400&v=4` | Wind Development org avatar; no dedicated software mark found. |
 | Vanilla | `vanilla.png` | `LabyMod/versions/26_2.jar:assets/minecraft/textures/block/grass_block_side.png` | Grass block side texture extracted from the running LabyMod/Minecraft 26.2 instance and upscaled with nearest-neighbor sampling. Minecraft brand rights remain with Mojang and Microsoft. |
+| Pumpkin | `pumpkin.png` | `https://raw.githubusercontent.com/Pumpkin-MC/Pumpkin/master/assets/default_icon.png` | Project-owned default server icon from the Pumpkin repository. |
