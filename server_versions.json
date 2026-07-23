@@ -3,6 +3,7 @@
     "name": "Velocity",
     "type": "PROXY",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/velocity.svg",
     "latestVersion": "4.1.0-SNAPSHOT",
     "downloadLinks": [
@@ -190,6 +191,7 @@
     "name": "Waterfall",
     "type": "PROXY",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/waterfall.svg",
     "latestVersion": "1.21",
     "downloadLinks": [
@@ -320,6 +322,7 @@
     "name": "BungeeCord",
     "type": "PROXY",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/bungeecord.png",
     "latestVersion": "latest",
     "downloadLinks": [
@@ -333,6 +336,7 @@
     "name": "Travertine",
     "type": "PROXY",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/travertine.svg",
     "latestVersion": "1.16",
     "downloadLinks": [
@@ -397,6 +401,7 @@
     "name": "Paper",
     "type": "SERVER",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/paper.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
@@ -2453,6 +2458,7 @@
     "name": "Leaf",
     "type": "SERVER",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/leaf.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
@@ -2592,6 +2598,7 @@
     "name": "ASPaper",
     "type": "SERVER",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/aspaper.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
@@ -2780,6 +2787,7 @@
     "name": "Purpur",
     "type": "SERVER",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/purpur.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
@@ -3231,6 +3239,7 @@
     "name": "Folia",
     "type": "SERVER",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/folia.svg",
     "latestVersion": "26.1.2",
     "downloadLinks": [
@@ -3585,6 +3594,7 @@
     "name": "Fabric",
     "type": "SERVER",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/fabric.png",
     "latestVersion": "26.2",
     "latestSnapshot": "26.3-snapshot-5",
@@ -4219,6 +4229,7 @@
     "name": "Windspigot",
     "type": "SERVER",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/windspigot.jpg",
     "latestVersion": "1.8.8",
     "downloadLinks": [
@@ -4232,6 +4243,7 @@
     "name": "Vanilla",
     "type": "SERVER",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/vanilla.png",
     "latestVersion": "26.2",
     "latestSnapshot": "26.3-snapshot-5",
