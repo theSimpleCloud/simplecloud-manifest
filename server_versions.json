@@ -3648,18 +3648,6 @@
         "publishedAt": "2026-06-30T12:45:43Z"
       },
       {
-        "version": "26.3-snapshot-1",
-        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-1/0.19.3/1.1.1.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "7c86cee4-57c6-40b5-8588-8add6a89f444",
-        "buildName": "0.19.3",
-        "projectVersion": "0.19.3",
-        "downloadSize": 179062,
-        "publishedAt": "2026-06-23T11:57:02Z"
-      },
-      {
         "version": "26.2",
         "link": "https://versions.mcjars.app/download/fabric/26.2/0.19.3/1.1.1.jar",
         "isSnapshot": false,
@@ -4294,18 +4282,6 @@
         "buildName": "#1",
         "downloadSize": 61622669,
         "publishedAt": "2026-06-30T14:45:43Z",
-        "experimental": true
-      },
-      {
-        "version": "26.3-snapshot-1",
-        "link": "https://piston-data.mojang.com/v1/objects/4d9ebd8b9dc87345ab770ceaf43fbeaeab05903f/server.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "80e1807e-eef9-4e28-9a2b-6775882b75ca",
-        "buildName": "#1",
-        "downloadSize": 61706056,
-        "publishedAt": "2026-06-23T13:57:02Z",
         "experimental": true
       },
       {
