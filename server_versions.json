@@ -407,7 +407,7 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://fill-data.papermc.io/v1/objects/d290ee2a3ae92fea10afb0c74f797023d74cfd72cbcee44314e0c50d5551f2c6/paper-26.2-65.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/36fee4f3a7020eb2e2d6f8d70d849beaf0f024d86f09302b9ccf2d96f266127e/paper-26.2-71.jar",
         "channel": "BETA",
         "javaMinimum": 25,
         "javaRecommendedFlags": [
@@ -431,10 +431,10 @@
           "-XX:SurvivorRatio=32"
         ],
         "supportStatus": "SUPPORTED",
-        "buildNumber": 65,
-        "downloadSize": 61742791,
-        "sha256": "d290ee2a3ae92fea10afb0c74f797023d74cfd72cbcee44314e0c50d5551f2c6",
-        "publishedAt": "2026-07-22T08:55:19Z"
+        "buildNumber": 71,
+        "downloadSize": 61744713,
+        "sha256": "36fee4f3a7020eb2e2d6f8d70d849beaf0f024d86f09302b9ccf2d96f266127e",
+        "publishedAt": "2026-07-25T13:55:11Z"
       },
       {
         "version": "26.2-rc-2",
@@ -5372,9 +5372,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-macOS",
-        "downloadSize": 62333744,
-        "sha256": "b22f5418327b0d1efbf2036cb67b1e4ab9417684df91b021dd733f2a365c99ab",
-        "publishedAt": "2026-07-24T18:26:04Z",
+        "downloadSize": 62514544,
+        "sha256": "9b10c6b70d0dd27fc5ec06bfdbad291edc8fbc29dfdfcc07b15fd51cd0f9cf40",
+        "publishedAt": "2026-07-25T17:57:50Z",
         "experimental": true
       },
       {
@@ -5385,9 +5385,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Linux",
-        "downloadSize": 78623168,
-        "sha256": "e15b63ee07f88c6751497319423b2fa3f7d977c96c140de943e9b53b3477652e",
-        "publishedAt": "2026-07-24T18:26:04Z",
+        "downloadSize": 78848344,
+        "sha256": "e807ce5795c2ce18b3898064da9ed48e2ac6df8a61fb51d68715fd3b167bfc3f",
+        "publishedAt": "2026-07-25T17:57:50Z",
         "experimental": true
       },
       {
@@ -5398,9 +5398,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Linux",
-        "downloadSize": 75748456,
-        "sha256": "bd7367f65532f3354a4662f0ad52469483aa92d2bc2b9245dc61d84fd80f6923",
-        "publishedAt": "2026-07-24T18:26:03Z",
+        "downloadSize": 75923288,
+        "sha256": "167e83b1df8adb7bf7c558136918bd85e232bc3cc5e5bef61a4415c490366a59",
+        "publishedAt": "2026-07-25T17:57:50Z",
         "experimental": true
       },
       {
@@ -5411,9 +5411,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Windows.exe",
-        "downloadSize": 73136952,
-        "sha256": "306db3279959356237177a0c3ddb013d93174b8e7ef62a25270e25ffa652027f",
-        "publishedAt": "2026-07-24T18:26:04Z",
+        "downloadSize": 73398072,
+        "sha256": "e91c5da3092a58d02d68a8da6b093b3b34957cdb3040344f9901d6fb0a52ad91",
+        "publishedAt": "2026-07-25T17:57:50Z",
         "experimental": true
       },
       {
@@ -5424,9 +5424,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Windows.exe",
-        "downloadSize": 62402368,
-        "sha256": "472afdc335663f5316d1bba1dc1ab4796f74efcd610ca0e9a2cfc34ca9cc23a9",
-        "publishedAt": "2026-07-24T18:26:03Z",
+        "downloadSize": 62627648,
+        "sha256": "54a01e8e7ff6351e69cafdb6d7f391f269c4853e322aed396460f849e3f87d29",
+        "publishedAt": "2026-07-25T17:57:50Z",
         "experimental": true
       }
     ]
