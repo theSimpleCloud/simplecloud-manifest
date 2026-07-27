@@ -407,7 +407,7 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://fill-data.papermc.io/v1/objects/1f48dc9ff05a21e1a0cd72bd572b97706d4d6f305297fdf591d190b88c72a508/paper-26.2-83.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/defe82c1c89067186895de34cf32983e9f5a2ea387cfe7597c020faebb98ca16/paper-26.2-84.jar",
         "channel": "STABLE",
         "javaMinimum": 25,
         "javaRecommendedFlags": [
@@ -431,10 +431,10 @@
           "-XX:SurvivorRatio=32"
         ],
         "supportStatus": "SUPPORTED",
-        "buildNumber": 83,
-        "downloadSize": 61755461,
-        "sha256": "1f48dc9ff05a21e1a0cd72bd572b97706d4d6f305297fdf591d190b88c72a508",
-        "publishedAt": "2026-07-26T16:57:41Z"
+        "buildNumber": 84,
+        "downloadSize": 61757193,
+        "sha256": "defe82c1c89067186895de34cf32983e9f5a2ea387cfe7597c020faebb98ca16",
+        "publishedAt": "2026-07-26T18:11:33Z"
       },
       {
         "version": "26.2-rc-2",
