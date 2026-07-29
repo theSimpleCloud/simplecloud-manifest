@@ -9,14 +9,14 @@
     "downloadLinks": [
       {
         "version": "4.1.0-SNAPSHOT",
-        "link": "https://fill-data.papermc.io/v1/objects/635ffe27b4fe1b97e61479012121d4e7c61a9eec99e6bd5a1f923053c2a259ce/velocity-4.1.0-SNAPSHOT-9.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/5e7b6b5e94542116d713a1da4d6aae31c3c82ee253720536b1f0035cba010beb/velocity-4.1.0-SNAPSHOT-10.jar",
         "channel": "STABLE",
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildNumber": 9,
-        "downloadSize": 18821225,
-        "sha256": "635ffe27b4fe1b97e61479012121d4e7c61a9eec99e6bd5a1f923053c2a259ce",
-        "publishedAt": "2026-07-19T14:05:20.029Z"
+        "buildNumber": 10,
+        "downloadSize": 18821492,
+        "sha256": "5e7b6b5e94542116d713a1da4d6aae31c3c82ee253720536b1f0035cba010beb",
+        "publishedAt": "2026-07-28T23:55:18.642Z"
       },
       {
         "version": "4.0.0",
@@ -407,7 +407,7 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://fill-data.papermc.io/v1/objects/defe82c1c89067186895de34cf32983e9f5a2ea387cfe7597c020faebb98ca16/paper-26.2-84.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/3ab7536642d04c504a06fe43174b8a94f8c5f25d5847d4672212413f6e54b906/paper-26.2-87.jar",
         "channel": "STABLE",
         "javaMinimum": 25,
         "javaRecommendedFlags": [
@@ -431,10 +431,10 @@
           "-XX:SurvivorRatio=32"
         ],
         "supportStatus": "SUPPORTED",
-        "buildNumber": 84,
-        "downloadSize": 61757193,
-        "sha256": "defe82c1c89067186895de34cf32983e9f5a2ea387cfe7597c020faebb98ca16",
-        "publishedAt": "2026-07-26T18:11:33Z"
+        "buildNumber": 87,
+        "downloadSize": 61756982,
+        "sha256": "3ab7536642d04c504a06fe43174b8a94f8c5f25d5847d4672212413f6e54b906",
+        "publishedAt": "2026-07-28T22:11:27Z"
       },
       {
         "version": "26.2-rc-2",
@@ -3241,8 +3241,39 @@
     "isPaperclip": true,
     "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/folia.svg",
-    "latestVersion": "26.1.2",
+    "latestVersion": "26.2",
     "downloadLinks": [
+      {
+        "version": "26.2",
+        "link": "https://fill-data.papermc.io/v1/objects/6726da42d6a4edc4961a43cdccfd7ebf5fea75e7b1342266532ed143df6736e7/folia-26.2-1.jar",
+        "channel": "BETA",
+        "javaMinimum": 25,
+        "javaRecommendedFlags": [
+          "-XX:+AlwaysPreTouch",
+          "-XX:+DisableExplicitGC",
+          "-XX:+ParallelRefProcEnabled",
+          "-XX:+PerfDisableSharedMem",
+          "-XX:+UnlockExperimentalVMOptions",
+          "-XX:+UseG1GC",
+          "-XX:G1HeapRegionSize=8M",
+          "-XX:G1HeapWastePercent=5",
+          "-XX:G1MaxNewSizePercent=40",
+          "-XX:G1MixedGCCountTarget=4",
+          "-XX:G1MixedGCLiveThresholdPercent=90",
+          "-XX:G1NewSizePercent=30",
+          "-XX:G1RSetUpdatingPauseTimePercent=5",
+          "-XX:G1ReservePercent=20",
+          "-XX:InitiatingHeapOccupancyPercent=15",
+          "-XX:MaxGCPauseMillis=200",
+          "-XX:MaxTenuringThreshold=1",
+          "-XX:SurvivorRatio=32"
+        ],
+        "supportStatus": "SUPPORTED",
+        "buildNumber": 1,
+        "downloadSize": 61994477,
+        "sha256": "6726da42d6a4edc4961a43cdccfd7ebf5fea75e7b1342266532ed143df6736e7",
+        "publishedAt": "2026-07-28T06:37:47Z"
+      },
       {
         "version": "26.1.2",
         "link": "https://fill-data.papermc.io/v1/objects/607afd1c3320008e1ffd2eaee6780ace4419d5f8c527b75e79f259be79ebf57b/folia-26.1.2-8.jar",
@@ -3597,8 +3628,20 @@
     "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/fabric.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-5",
+    "latestSnapshot": "26.3-snapshot-6",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-6",
+        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-6/0.19.3/1.1.2.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "df31265c-ee16-4051-bca5-4c64514f2001",
+        "buildName": "0.19.3",
+        "projectVersion": "0.19.3",
+        "downloadSize": 181849,
+        "publishedAt": "2026-07-28T12:25:51Z"
+      },
       {
         "version": "26.3-snapshot-5",
         "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-5/0.19.3/1.1.2.jar",
@@ -4234,8 +4277,20 @@
     "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/vanilla.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-5",
+    "latestSnapshot": "26.3-snapshot-6",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-6",
+        "link": "https://piston-data.mojang.com/v1/objects/14406bf8b96c4126ed01371a62e50703a7481247/server.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "6e9340f3-7c9b-4833-991c-c3157a9bf250",
+        "buildName": "#1",
+        "downloadSize": 61935854,
+        "publishedAt": "2026-07-28T14:25:51Z",
+        "experimental": true
+      },
       {
         "version": "26.3-snapshot-5",
         "link": "https://piston-data.mojang.com/v1/objects/bc881a3fc6e63c490e614ab3bf9c43adc0449ab2/server.jar",
