@@ -4,19 +4,20 @@
     "type": "PROXY",
     "description": "A modern Minecraft proxy built for performance, scalability, security, and mod support. Recommended for new proxy networks.",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/velocity.svg",
     "latestVersion": "4.1.0-SNAPSHOT",
     "downloadLinks": [
       {
         "version": "4.1.0-SNAPSHOT",
-        "link": "https://fill-data.papermc.io/v1/objects/635ffe27b4fe1b97e61479012121d4e7c61a9eec99e6bd5a1f923053c2a259ce/velocity-4.1.0-SNAPSHOT-9.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/8290bd8bb46135ad3b916ceb780bc117fe0c8a603e79016c37a1e74315714f94/velocity-4.1.0-SNAPSHOT-11.jar",
         "channel": "STABLE",
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildNumber": 9,
-        "downloadSize": 18821225,
-        "sha256": "635ffe27b4fe1b97e61479012121d4e7c61a9eec99e6bd5a1f923053c2a259ce",
-        "publishedAt": "2026-07-19T14:05:20.029Z"
+        "buildNumber": 11,
+        "downloadSize": 18822787,
+        "sha256": "8290bd8bb46135ad3b916ceb780bc117fe0c8a603e79016c37a1e74315714f94",
+        "publishedAt": "2026-07-29T11:54:28.073Z"
       },
       {
         "version": "4.0.0",
@@ -193,6 +194,7 @@
     "description": "An end-of-life BungeeCord fork formerly focused on performance and stability. It is no longer maintained; migrate to Velocity.",
     "lifecycle": "END_OF_LIFE",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/waterfall.svg",
     "latestVersion": "1.21",
     "downloadLinks": [
@@ -324,6 +326,7 @@
     "type": "PROXY",
     "description": "A maintained SpigotMC proxy and plugin API for connecting multiple Minecraft servers behind one address.",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/bungeecord.png",
     "latestVersion": "latest",
     "downloadLinks": [
@@ -339,6 +342,7 @@
     "description": "A discontinued Waterfall fork that added support for older clients, including Minecraft 1.7. It is archived; migrate to Velocity.",
     "lifecycle": "DISCONTINUED",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/travertine.svg",
     "latestVersion": "1.16",
     "downloadLinks": [
@@ -529,13 +533,14 @@
     "type": "SERVER",
     "description": "A high-performance Minecraft server with broad Bukkit, Spigot, and Paper plugin compatibility. A strong default for most plugin-based servers.",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/paper.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://fill-data.papermc.io/v1/objects/d290ee2a3ae92fea10afb0c74f797023d74cfd72cbcee44314e0c50d5551f2c6/paper-26.2-65.jar",
-        "channel": "BETA",
+        "link": "https://fill-data.papermc.io/v1/objects/3ab7536642d04c504a06fe43174b8a94f8c5f25d5847d4672212413f6e54b906/paper-26.2-87.jar",
+        "channel": "STABLE",
         "javaMinimum": 25,
         "javaRecommendedFlags": [
           "-XX:+AlwaysPreTouch",
@@ -558,10 +563,10 @@
           "-XX:SurvivorRatio=32"
         ],
         "supportStatus": "SUPPORTED",
-        "buildNumber": 65,
-        "downloadSize": 61742791,
-        "sha256": "d290ee2a3ae92fea10afb0c74f797023d74cfd72cbcee44314e0c50d5551f2c6",
-        "publishedAt": "2026-07-22T08:55:19Z"
+        "buildNumber": 87,
+        "downloadSize": 61756982,
+        "sha256": "3ab7536642d04c504a06fe43174b8a94f8c5f25d5847d4672212413f6e54b906",
+        "publishedAt": "2026-07-28T22:11:27Z"
       },
       {
         "version": "26.2-rc-2",
@@ -2586,19 +2591,20 @@
     "type": "SERVER",
     "description": "A customizable, high-performance Paper fork that remains compatible with Spigot and Paper plugins.",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/leaf.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://files.mcjars.app/leaf/26.2/37/server.jar",
+        "link": "https://files.mcjars.app/leaf/26.2/38/server.jar",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "1ccb7530-d247-461c-b64a-56e42ba9825f",
-        "buildName": "#37",
-        "downloadSize": 81622773,
-        "publishedAt": "2026-07-22T04:10:20.554Z",
+        "buildUuid": "cc1b5ba5-78ec-42df-a23d-2813bdcab67c",
+        "buildName": "#38",
+        "downloadSize": 81622191,
+        "publishedAt": "2026-07-29T19:43:22.589Z",
         "experimental": true
       },
       {
@@ -2726,6 +2732,7 @@
     "type": "SERVER",
     "description": "A Paper fork with Advanced Slime World Manager built in, designed for faster world loading and lower storage use.",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/aspaper.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
@@ -2735,10 +2742,10 @@
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "76f19800-a739-486c-8517-2225381d7f4b",
+        "buildUuid": "d127a496-52b7-4e4d-ba07-417c97a3cdfb",
         "buildName": "#26",
-        "downloadSize": 62042607,
-        "publishedAt": "2026-07-22T11:04:59.166Z",
+        "downloadSize": 62051784,
+        "publishedAt": "2026-07-26T10:25:09.564Z",
         "experimental": true
       },
       {
@@ -2915,19 +2922,20 @@
     "type": "SERVER",
     "description": "A highly configurable Paper fork with extra gameplay settings and features. It supports Bukkit, Spigot, and Paper plugins.",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/purpur.svg",
     "latestVersion": "26.2",
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://api.purpurmc.org/v2/purpur/26.2/2614/download",
+        "link": "https://api.purpurmc.org/v2/purpur/26.2/2618/download",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "8ee89899-ab9c-430e-8b41-70ccc3ef642b",
-        "buildName": "#2614",
-        "downloadSize": 64624480,
-        "publishedAt": "2026-07-21T23:56:44.242Z"
+        "buildUuid": "4daa14d8-9274-4f9c-8288-65d992541723",
+        "buildName": "#2618",
+        "downloadSize": 64638260,
+        "publishedAt": "2026-07-30T00:43:09.545Z"
       },
       {
         "version": "26.1.2",
@@ -3367,9 +3375,41 @@
     "type": "SERVER",
     "description": "A Paper fork that ticks independent world regions in parallel for better scalability. Plugins must explicitly support Folia.",
     "isPaperclip": true,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/folia.svg",
-    "latestVersion": "26.1.2",
+    "latestVersion": "26.2",
     "downloadLinks": [
+      {
+        "version": "26.2",
+        "link": "https://fill-data.papermc.io/v1/objects/6726da42d6a4edc4961a43cdccfd7ebf5fea75e7b1342266532ed143df6736e7/folia-26.2-1.jar",
+        "channel": "BETA",
+        "javaMinimum": 25,
+        "javaRecommendedFlags": [
+          "-XX:+AlwaysPreTouch",
+          "-XX:+DisableExplicitGC",
+          "-XX:+ParallelRefProcEnabled",
+          "-XX:+PerfDisableSharedMem",
+          "-XX:+UnlockExperimentalVMOptions",
+          "-XX:+UseG1GC",
+          "-XX:G1HeapRegionSize=8M",
+          "-XX:G1HeapWastePercent=5",
+          "-XX:G1MaxNewSizePercent=40",
+          "-XX:G1MixedGCCountTarget=4",
+          "-XX:G1MixedGCLiveThresholdPercent=90",
+          "-XX:G1NewSizePercent=30",
+          "-XX:G1RSetUpdatingPauseTimePercent=5",
+          "-XX:G1ReservePercent=20",
+          "-XX:InitiatingHeapOccupancyPercent=15",
+          "-XX:MaxGCPauseMillis=200",
+          "-XX:MaxTenuringThreshold=1",
+          "-XX:SurvivorRatio=32"
+        ],
+        "supportStatus": "SUPPORTED",
+        "buildNumber": 1,
+        "downloadSize": 61994477,
+        "sha256": "6726da42d6a4edc4961a43cdccfd7ebf5fea75e7b1342266532ed143df6736e7",
+        "publishedAt": "2026-07-28T06:37:47Z"
+      },
       {
         "version": "26.1.2",
         "link": "https://fill-data.papermc.io/v1/objects/607afd1c3320008e1ffd2eaee6780ace4419d5f8c527b75e79f259be79ebf57b/folia-26.1.2-8.jar",
@@ -3722,10 +3762,23 @@
     "type": "SERVER",
     "description": "A lightweight mod loader for running Fabric mods on a Minecraft server. Use it for modded gameplay rather than Bukkit or Paper plugins.",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/fabric.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-5",
+    "latestSnapshot": "26.3-snapshot-6",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-6",
+        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-6/0.19.3/1.1.2.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "df31265c-ee16-4051-bca5-4c64514f2001",
+        "buildName": "0.19.3",
+        "projectVersion": "0.19.3",
+        "downloadSize": 181849,
+        "publishedAt": "2026-07-28T12:25:51Z"
+      },
       {
         "version": "26.3-snapshot-5",
         "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-5/0.19.3/1.1.2.jar",
@@ -3773,18 +3826,6 @@
         "projectVersion": "0.19.3",
         "downloadSize": 179062,
         "publishedAt": "2026-06-30T12:45:43Z"
-      },
-      {
-        "version": "26.3-snapshot-1",
-        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-1/0.19.3/1.1.1.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "7c86cee4-57c6-40b5-8588-8add6a89f444",
-        "buildName": "0.19.3",
-        "projectVersion": "0.19.3",
-        "downloadSize": 179062,
-        "publishedAt": "2026-06-23T11:57:02Z"
       },
       {
         "version": "26.2",
@@ -4357,6 +4398,7 @@
     "type": "SERVER",
     "description": "A performance-focused Minecraft 1.8.8 server with multithreaded workloads and configurable PvP mechanics.",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/windspigot.jpg",
     "latestVersion": "1.8.8",
     "downloadLinks": [
@@ -4371,10 +4413,23 @@
     "type": "SERVER",
     "description": "Mojang's official, unmodified Minecraft: Java Edition server. Use it for the default game experience without third-party plugin or mod-loader APIs.",
     "isPaperclip": false,
+    "isBinary": false,
     "iconUrl": "https://raw.githubusercontent.com/theSimpleCloud/simplecloud-manifest/refs/heads/main/assets/software/vanilla.png",
     "latestVersion": "26.2",
-    "latestSnapshot": "26.3-snapshot-5",
+    "latestSnapshot": "26.3-snapshot-6",
     "downloadLinks": [
+      {
+        "version": "26.3-snapshot-6",
+        "link": "https://piston-data.mojang.com/v1/objects/14406bf8b96c4126ed01371a62e50703a7481247/server.jar",
+        "isSnapshot": true,
+        "javaMinimum": 25,
+        "supportStatus": "SUPPORTED",
+        "buildUuid": "6e9340f3-7c9b-4833-991c-c3157a9bf250",
+        "buildName": "#1",
+        "downloadSize": 61935854,
+        "publishedAt": "2026-07-28T14:25:51Z",
+        "experimental": true
+      },
       {
         "version": "26.3-snapshot-5",
         "link": "https://piston-data.mojang.com/v1/objects/bc881a3fc6e63c490e614ab3bf9c43adc0449ab2/server.jar",
@@ -4421,18 +4476,6 @@
         "buildName": "#1",
         "downloadSize": 61622669,
         "publishedAt": "2026-06-30T14:45:43Z",
-        "experimental": true
-      },
-      {
-        "version": "26.3-snapshot-1",
-        "link": "https://piston-data.mojang.com/v1/objects/4d9ebd8b9dc87345ab770ceaf43fbeaeab05903f/server.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "80e1807e-eef9-4e28-9a2b-6775882b75ca",
-        "buildName": "#1",
-        "downloadSize": 61706056,
-        "publishedAt": "2026-06-23T13:57:02Z",
         "experimental": true
       },
       {
@@ -5524,9 +5567,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-macOS",
-        "downloadSize": 61965456,
-        "sha256": "50b6c3b09befdecf1a986ad37575993195a007c9246aeab57ece5d1142aa85f9",
-        "publishedAt": "2026-07-20T09:56:02Z",
+        "downloadSize": 62514688,
+        "sha256": "2b974ed446593f7f67d0f7e516947671f0f929d148aeb88bf10b0b842d4c46d0",
+        "publishedAt": "2026-07-29T18:48:26Z",
         "experimental": true
       },
       {
@@ -5537,9 +5580,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Linux",
-        "downloadSize": 78250232,
-        "sha256": "7059c424e11c3545b1892fa7ddb495167be1d5f5efde3028f17ff4199e8b46d4",
-        "publishedAt": "2026-07-20T09:56:02Z",
+        "downloadSize": 78849344,
+        "sha256": "ae56b8a3bee3661b0e4650f749a1af67c5cf1102129ed85648ab8164ff9f310a",
+        "publishedAt": "2026-07-29T18:48:26Z",
         "experimental": true
       },
       {
@@ -5550,9 +5593,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Linux",
-        "downloadSize": 75349800,
-        "sha256": "d06d470922b20be8cad427f19fa87af3f68006a20e6699467b6d5f78727132c1",
-        "publishedAt": "2026-07-20T09:56:02Z",
+        "downloadSize": 75923584,
+        "sha256": "b83252de08a8a017887372d11b8d167bbf5d4bb780fab3fa1a448e37c1944bf6",
+        "publishedAt": "2026-07-29T18:48:26Z",
         "experimental": true
       },
       {
@@ -5563,9 +5606,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Windows.exe",
-        "downloadSize": 72719672,
-        "sha256": "0afe91eb7368733ea9101ac143669177e77c51337ea89e6148d50c6483bc5502",
-        "publishedAt": "2026-07-20T09:56:03Z",
+        "downloadSize": 73385272,
+        "sha256": "fb166ad02a9b008718aa2106f38f100a55a5c4350a29b7a470175e1b39ba9642",
+        "publishedAt": "2026-07-29T18:48:26Z",
         "experimental": true
       },
       {
@@ -5576,9 +5619,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Windows.exe",
-        "downloadSize": 61997888,
-        "sha256": "147a39b51e1d005adbaf6c8fb76f80b852dc89ab2965fccbc07944e3fa2f59b5",
-        "publishedAt": "2026-07-20T09:56:02Z",
+        "downloadSize": 62629688,
+        "sha256": "602dc114795a04b8d6fcac69bdd891244b4755aded3b2a45cd2316d8aee89659",
+        "publishedAt": "2026-07-29T18:48:26Z",
         "experimental": true
       }
     ]
