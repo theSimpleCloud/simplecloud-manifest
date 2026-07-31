@@ -10,14 +10,14 @@
     "downloadLinks": [
       {
         "version": "4.1.0-SNAPSHOT",
-        "link": "https://fill-data.papermc.io/v1/objects/8290bd8bb46135ad3b916ceb780bc117fe0c8a603e79016c37a1e74315714f94/velocity-4.1.0-SNAPSHOT-11.jar",
+        "link": "https://fill-data.papermc.io/v1/objects/619031b094211f2732b7f223593a6c2c7b9152b1d28f5110e086b41a02d65d68/velocity-4.1.0-SNAPSHOT-12.jar",
         "channel": "STABLE",
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildNumber": 11,
-        "downloadSize": 18822787,
-        "sha256": "8290bd8bb46135ad3b916ceb780bc117fe0c8a603e79016c37a1e74315714f94",
-        "publishedAt": "2026-07-29T11:54:28.073Z"
+        "buildNumber": 12,
+        "downloadSize": 18823951,
+        "sha256": "619031b094211f2732b7f223593a6c2c7b9152b1d28f5110e086b41a02d65d68",
+        "publishedAt": "2026-07-30T15:53:52.522Z"
       },
       {
         "version": "4.0.0",
@@ -411,142 +411,142 @@
     "isPaperclip": false,
     "isBinary": true,
     "iconUrl": "https://raw.githubusercontent.com/minekube/gate/master/.web/docs/public/logo_transparent.png",
-    "latestVersion": "v0.68.33",
+    "latestVersion": "v0.70.0",
     "downloadLinks": [
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_darwin_amd64",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_darwin_amd64",
         "platform": "darwin",
         "architecture": "amd64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_darwin_amd64",
-        "downloadSize": 25760576,
-        "sha256": "d3fb1e80184989c3e180564bdcb2ec7a5e8fe333bc539bd7edea091d7843c257",
-        "publishedAt": "2026-07-27T08:57:58Z"
+        "buildName": "gate_0.70.0_darwin_amd64",
+        "downloadSize": 25980896,
+        "sha256": "03908b2fa8a96469f530b179735c6b7e365acc2500db2b01a996a4bc849b6085",
+        "publishedAt": "2026-07-30T21:33:22Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_darwin_arm64",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_darwin_arm64",
         "platform": "darwin",
         "architecture": "arm64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_darwin_arm64",
-        "downloadSize": 24289666,
-        "sha256": "81620b2e8ea7a20d69d7170dcd2ed60776855be49816dd3da2a0f18c8afd6d42",
-        "publishedAt": "2026-07-27T08:57:59Z"
+        "buildName": "gate_0.70.0_darwin_arm64",
+        "downloadSize": 24478674,
+        "sha256": "a0f413cc246ed7476cee933cb1ac97849e2280076d9f0203f56dac43fa0a16d2",
+        "publishedAt": "2026-07-30T21:33:22Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_386",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_386",
         "platform": "linux",
         "architecture": "386",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_386",
-        "downloadSize": 23204103,
-        "sha256": "cc44d36256e7ff2b90bbd3ba2a477ef251b813d45b7b656f616bccf231560399",
-        "publishedAt": "2026-07-27T08:58:00Z"
+        "buildName": "gate_0.70.0_linux_386",
+        "downloadSize": 23408903,
+        "sha256": "48d26fbfbe15abaeb7579bc019ac2db69b91b1160b4539d90c5af1d55ebf3d9a",
+        "publishedAt": "2026-07-30T21:33:22Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_386_musl",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_386_musl",
         "platform": "linux",
         "architecture": "386",
         "variant": "musl",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_386_musl",
-        "downloadSize": 19112098,
-        "sha256": "096c58225303b3f3806a6caa1c287187ce411d57b5335642dfbbe36a804987de",
-        "publishedAt": "2026-07-27T08:58:01Z"
+        "buildName": "gate_0.70.0_linux_386_musl",
+        "downloadSize": 19316898,
+        "sha256": "7ab3302d47d23a0839fcacf3cc889871241d647115a79838eb1e505408942271",
+        "publishedAt": "2026-07-30T21:33:27Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_amd64",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_amd64",
         "platform": "linux",
         "architecture": "amd64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_amd64",
-        "downloadSize": 24883465,
-        "sha256": "41bb2137abd112e91c330831467bc7b170d04362b59b2c54cb913c5af699f53a",
-        "publishedAt": "2026-07-27T08:58:00Z"
+        "buildName": "gate_0.70.0_linux_amd64",
+        "downloadSize": 25096457,
+        "sha256": "8efe725757ec6f7d940341144bac230d3f7ffd0f5bc60fdbddf28241a227a4a0",
+        "publishedAt": "2026-07-30T21:33:21Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_amd64_musl",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_amd64_musl",
         "platform": "linux",
         "architecture": "amd64",
         "variant": "musl",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_amd64_musl",
-        "downloadSize": 20344994,
-        "sha256": "9b85b8476e68a3e723d0efa2f1a3b5c9fdf77c841a7a2e429d259d0bf11ad5a5",
-        "publishedAt": "2026-07-27T08:58:01Z"
+        "buildName": "gate_0.70.0_linux_amd64_musl",
+        "downloadSize": 20557986,
+        "sha256": "8a6666efefe1cea8617182e936a22ab861ff4d91e4e338243e6010fdae995393",
+        "publishedAt": "2026-07-30T21:33:26Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_arm64",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_arm64",
         "platform": "linux",
         "architecture": "arm64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_arm64",
-        "downloadSize": 23331081,
-        "sha256": "d57baaf9ebd18921df5efd2d59d1a64f5c5624de6dcd84af39be2c63b8c5b4e6",
-        "publishedAt": "2026-07-27T08:58:01Z"
+        "buildName": "gate_0.70.0_linux_arm64",
+        "downloadSize": 23462153,
+        "sha256": "7ef2f5c5b2ed55ea1df66bb1d39800175eca5724a206a348fb07fdec6b5966de",
+        "publishedAt": "2026-07-30T21:33:25Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_linux_arm64_musl",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_linux_arm64_musl",
         "platform": "linux",
         "architecture": "arm64",
         "variant": "musl",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_linux_arm64_musl",
-        "downloadSize": 19005602,
-        "sha256": "bad906f0f36e65ec73e0a90aa49ba8ccc6218c70110839778e48ea60fb284798",
-        "publishedAt": "2026-07-27T08:58:00Z"
+        "buildName": "gate_0.70.0_linux_arm64_musl",
+        "downloadSize": 19202210,
+        "sha256": "472131907425d2c247419437d678b47c033f92e7d99efb0f256027f2135f9b9b",
+        "publishedAt": "2026-07-30T21:33:27Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_windows_386.exe",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_windows_386.exe",
         "platform": "windows",
         "architecture": "386",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_windows_386.exe",
-        "downloadSize": 23809536,
-        "sha256": "b4fe9f22df274a439d49556ed9c0d2c7a81543e4db72735eb506ac16a775fa72",
-        "publishedAt": "2026-07-27T08:57:58Z"
+        "buildName": "gate_0.70.0_windows_386.exe",
+        "downloadSize": 24014336,
+        "sha256": "c5e4dcee14e5b6a1f846fd204b4ca1a19bf95c804ceeba2548c4274d76422dc1",
+        "publishedAt": "2026-07-30T21:33:23Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_windows_amd64.exe",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_windows_amd64.exe",
         "platform": "windows",
         "architecture": "amd64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_windows_amd64.exe",
-        "downloadSize": 25592832,
-        "sha256": "bb93cbb80e7869a5aaf24eb679e9cf07464d3107c1274e268e057d935f7f5cfd",
-        "publishedAt": "2026-07-27T08:58:00Z"
+        "buildName": "gate_0.70.0_windows_amd64.exe",
+        "downloadSize": 25805312,
+        "sha256": "c4c80c4f57475c455acf97fb4d2a9df9bc8109cd33082d6a40af35ac02bb8717",
+        "publishedAt": "2026-07-30T21:33:26Z"
       },
       {
-        "version": "v0.68.33",
-        "link": "https://github.com/minekube/gate/releases/download/v0.68.33/gate_0.68.33_windows_arm64.exe",
+        "version": "v0.70.0",
+        "link": "https://github.com/minekube/gate/releases/download/v0.70.0/gate_0.70.0_windows_arm64.exe",
         "platform": "windows",
         "architecture": "arm64",
         "channel": "STABLE",
         "isSnapshot": false,
-        "buildName": "gate_0.68.33_windows_arm64.exe",
-        "downloadSize": 23602688,
-        "sha256": "344655d006e49dc903a661476cff1095497d02177b8466be692f558e22399299",
-        "publishedAt": "2026-07-27T08:57:57Z"
+        "buildName": "gate_0.70.0_windows_arm64.exe",
+        "downloadSize": 23803392,
+        "sha256": "99b62329467d8071128d56fc1d4ba2876e0a097969e71ce28da9be5055dbeca6",
+        "publishedAt": "2026-07-30T21:33:25Z"
       }
     ]
   },
@@ -2619,14 +2619,14 @@
     "downloadLinks": [
       {
         "version": "26.2",
-        "link": "https://files.mcjars.app/leaf/26.2/42/server.jar",
+        "link": "https://files.mcjars.app/leaf/26.2/45/server.jar",
         "isSnapshot": false,
         "javaMinimum": 25,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "e7bf4221-d8b3-49e3-94cf-0fe2d71102c8",
-        "buildName": "#42",
-        "downloadSize": 81621940,
-        "publishedAt": "2026-07-30T13:08:53.086Z",
+        "buildUuid": "04f5ac0c-449c-4cac-9246-d6ce4994ecdf",
+        "buildName": "#45",
+        "downloadSize": 81637274,
+        "publishedAt": "2026-07-30T17:45:57.951Z",
         "experimental": true
       },
       {
@@ -3838,18 +3838,6 @@
         "publishedAt": "2026-07-07T12:03:01Z"
       },
       {
-        "version": "26.3-snapshot-2",
-        "link": "https://versions.mcjars.app/download/fabric/26.3-snapshot-2/0.19.3/1.1.1.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "36fcbd20-ac64-4b3a-9470-46e1eba57539",
-        "buildName": "0.19.3",
-        "projectVersion": "0.19.3",
-        "downloadSize": 179062,
-        "publishedAt": "2026-06-30T12:45:43Z"
-      },
-      {
         "version": "26.2",
         "link": "https://versions.mcjars.app/download/fabric/26.2/0.19.3/1.1.1.jar",
         "isSnapshot": false,
@@ -4486,18 +4474,6 @@
         "buildName": "#1",
         "downloadSize": 61713132,
         "publishedAt": "2026-07-07T14:03:01Z",
-        "experimental": true
-      },
-      {
-        "version": "26.3-snapshot-2",
-        "link": "https://piston-data.mojang.com/v1/objects/a6e2ae24c95dc838456927661a82434d26936d2f/server.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "76da3f4a-1309-4f55-a3ca-59a0be1ce847",
-        "buildName": "#1",
-        "downloadSize": 61622669,
-        "publishedAt": "2026-06-30T14:45:43Z",
         "experimental": true
       },
       {
@@ -5589,9 +5565,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-macOS",
-        "downloadSize": 62515216,
-        "sha256": "d08bf53f327eff8558cc3de3e7a424a0885282015efa0d3e789c76127a85dd8c",
-        "publishedAt": "2026-07-30T11:49:05Z",
+        "downloadSize": 62565200,
+        "sha256": "ec3c52ab2d062eb4cd9f2ba69d248f50750be54bceab1436ae8bc1cd03260045",
+        "publishedAt": "2026-07-30T13:32:09Z",
         "experimental": true
       },
       {
@@ -5602,9 +5578,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Linux",
-        "downloadSize": 78844360,
-        "sha256": "57d9c5a702cbbebef1568735659caea5ad9db684e65976cc60d5873c898bb323",
-        "publishedAt": "2026-07-30T11:49:06Z",
+        "downloadSize": 78899704,
+        "sha256": "8657d67ff3f74b5fb25f1223121e75bce1c705ce1aed5b6711b1b89cc4b9d856",
+        "publishedAt": "2026-07-30T13:31:58Z",
         "experimental": true
       },
       {
@@ -5615,9 +5591,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Linux",
-        "downloadSize": 75924360,
-        "sha256": "a2a5521930d424364e256c8b459b373935cf168ccbd94a80544748de0b8a6881",
-        "publishedAt": "2026-07-30T11:49:06Z",
+        "downloadSize": 76010968,
+        "sha256": "872b496cc348bc849bcd817b8b5e2087c048b4d757853fcaf00c587108f4a6f4",
+        "publishedAt": "2026-07-30T13:31:58Z",
         "experimental": true
       },
       {
@@ -5628,9 +5604,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Windows.exe",
-        "downloadSize": 73391416,
-        "sha256": "9ae7ee5621accaef40e9c014b4c5822198345bd2c15605861963c2cf36e95f02",
-        "publishedAt": "2026-07-30T11:49:07Z",
+        "downloadSize": 73453880,
+        "sha256": "17e25380c63548ff169dad5dc477ea0197429eeecf8aad6d85af56cf67beac5c",
+        "publishedAt": "2026-07-30T13:31:58Z",
         "experimental": true
       },
       {
@@ -5641,9 +5617,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Windows.exe",
-        "downloadSize": 62634304,
-        "sha256": "c0b6fe3a1b634424651a183eb1d7eba687eeb1d6310286787fa2f99308216717",
-        "publishedAt": "2026-07-30T11:49:05Z",
+        "downloadSize": 62679864,
+        "sha256": "d0ab512630162f997e4f04db80f21e84a387bbff712744ef0936507502bb3415",
+        "publishedAt": "2026-07-30T13:31:57Z",
         "experimental": true
       }
     ]
@@ -5682,19 +5658,6 @@
         "projectVersion": "0.30.1-beta.2",
         "downloadSize": 61713132,
         "publishedAt": "2026-07-07T12:03:01Z",
-        "experimental": true
-      },
-      {
-        "version": "26.3-snapshot-2",
-        "link": "https://piston-data.mojang.com/v1/objects/a6e2ae24c95dc838456927661a82434d26936d2f/server.jar",
-        "isSnapshot": true,
-        "javaMinimum": 25,
-        "supportStatus": "SUPPORTED",
-        "buildUuid": "ca6e80cd-4b6c-4784-89c9-8e440cda3766",
-        "buildName": "0.30.1-beta.2",
-        "projectVersion": "0.30.1-beta.2",
-        "downloadSize": 61622669,
-        "publishedAt": "2026-06-30T12:45:43Z",
         "experimental": true
       },
       {
@@ -6444,14 +6407,14 @@
       },
       {
         "version": "1.21.1",
-        "link": "https://files.mcjars.app/neoforge/1.21.1/21.1.244/1/server.jar.zip",
+        "link": "https://files.mcjars.app/neoforge/1.21.1/21.1.247/1/server.jar.zip",
         "isSnapshot": false,
         "javaMinimum": 21,
         "supportStatus": "SUPPORTED",
-        "buildUuid": "65273886-41ef-4ff6-a1fc-d9d70f634133",
-        "buildName": "21.1.244",
-        "projectVersion": "21.1.244",
-        "downloadSize": 107701839,
+        "buildUuid": "fae5969c-cbdd-4397-b0f1-c2ce60a98c72",
+        "buildName": "21.1.247",
+        "projectVersion": "21.1.247",
+        "downloadSize": 107701937,
         "publishedAt": "2024-08-08T12:24:45Z"
       },
       {
