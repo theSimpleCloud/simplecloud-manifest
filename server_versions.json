@@ -5565,9 +5565,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-macOS",
-        "downloadSize": 63044864,
-        "sha256": "56edc02a992114726fe05aff115bc01369635ea22b14795ebc685b2d6538c9a0",
-        "publishedAt": "2026-07-31T10:37:17Z",
+        "downloadSize": 63310416,
+        "sha256": "7ce1e972ba98b0b0c4b3c7d6e8b85c1a2111527212571ad22bb0f53ce2da0f9a",
+        "publishedAt": "2026-08-01T13:46:43Z",
         "experimental": true
       },
       {
@@ -5578,9 +5578,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Linux",
-        "downloadSize": 79496024,
-        "sha256": "8ff9b8f7fbb45a7b2a33d22496d27affac8b867b025e2f74f92c008856ca96b5",
-        "publishedAt": "2026-07-31T10:37:18Z",
+        "downloadSize": 79867808,
+        "sha256": "08bcd4b955c8c7669d42fd5e011d5f2e0bdc4210e3c96c3025d7406c35ee20d6",
+        "publishedAt": "2026-08-01T13:46:44Z",
         "experimental": true
       },
       {
@@ -5591,9 +5591,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Linux",
-        "downloadSize": 76546112,
-        "sha256": "3cb6dbd2581a1077839d04619dedd808c843fe13cc6b242cd9d3b325c9d290ab",
-        "publishedAt": "2026-07-31T10:37:18Z",
+        "downloadSize": 76824520,
+        "sha256": "9b17a9eeb46e8a1075831f1de88c600fa7a1b4fb12639ffe95eed5a59cedfd23",
+        "publishedAt": "2026-08-01T13:46:44Z",
         "experimental": true
       },
       {
@@ -5604,9 +5604,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-X64-Windows.exe",
-        "downloadSize": 74030904,
-        "sha256": "f2f041fc8ac3b9e4f45a4eb723a5302f4fbd4324130666586d6a3cbb5698ecb1",
-        "publishedAt": "2026-07-31T10:37:18Z",
+        "downloadSize": 74422072,
+        "sha256": "d72ac9df4b4d7174aac238596244253e7e579accd17a4c5322d7058947b4b822",
+        "publishedAt": "2026-08-01T13:46:44Z",
         "experimental": true
       },
       {
@@ -5617,9 +5617,9 @@
         "channel": "NIGHTLY",
         "isSnapshot": true,
         "buildName": "pumpkin-ARM64-Windows.exe",
-        "downloadSize": 63167296,
-        "sha256": "f50a311465fa390bd30a10555b286366b4d794f864de5a919e574561d8e57f4d",
-        "publishedAt": "2026-07-31T10:37:18Z",
+        "downloadSize": 63441216,
+        "sha256": "dd602da29561a67c295f3b2291ae1b3c90d693f2b99b3dcfb883f1c255ffa145",
+        "publishedAt": "2026-08-01T13:46:43Z",
         "experimental": true
       }
     ]
